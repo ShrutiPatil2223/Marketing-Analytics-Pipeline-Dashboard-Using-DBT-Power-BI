@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: mart_customer_journey
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_campaign_performance
+    columns:
+      - name: campaign_id
+        tests:
+          - unique
+          - not_null
+      - name: roas
+        tests:
+          - not_null
+
+  - name: mart_channel_monthly
+    columns:
+      - name: month
+        tests:
+          - not_null

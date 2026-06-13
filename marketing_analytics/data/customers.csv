@@ -1,0 +1,1501 @@
+customer_id,first_name,last_name,email,segment,industry,country,acquisition_channel,created_at,is_active
+CUST00001,Connie,Mckinney,rodriguezjill@example.com,Enterprise,Technology,CA,Paid Search,2025-07-29,True
+CUST00002,Nathan,Ross,jillmcknight@example.com,Enterprise,Education,UK,Direct,2025-07-06,True
+CUST00003,Andrew,Conley,natalie97@example.org,Enterprise,Technology,FR,Paid Search,2024-05-12,True
+CUST00004,Ariana,Marquez,michael93@example.com,Enterprise,Manufacturing,FR,Webinar,2024-03-31,True
+CUST00005,Roberto,Williams,ecarter@example.org,Consumer,Healthcare,SE,Direct,2026-04-08,True
+CUST00006,Dennis,Olson,joy21@example.net,Enterprise,Healthcare,NL,Paid Social,2025-12-26,True
+CUST00007,Vincent,Brown,tammyharding@example.com,Mid-Market,Finance,UK,Organic Search,2023-09-06,True
+CUST00008,Dylan,Clarke,smithmegan@example.com,SMB,Finance,CA,Event,2025-06-20,True
+CUST00009,Erika,Collins,todddavis@example.org,Consumer,Manufacturing,UK,Email Referral,2023-05-21,True
+CUST00010,Kurt,Hunt,nancyburns@example.org,SMB,Education,AU,Direct,2025-01-20,True
+CUST00011,Brandon,Gray,pauldonaldson@example.com,Enterprise,Technology,FR,Event,2024-06-28,True
+CUST00012,Juan,Campbell,alan81@example.org,Enterprise,Healthcare,UK,Email Referral,2023-12-26,True
+CUST00013,Elizabeth,Rodgers,leeana@example.com,SMB,Healthcare,AU,Paid Social,2023-10-25,True
+CUST00014,Bethany,Garcia,robert68@example.org,SMB,Education,UK,Direct,2024-06-29,True
+CUST00015,Kyle,Harmon,wilsonjeff@example.net,Mid-Market,Healthcare,SE,Email Referral,2025-08-31,True
+CUST00016,Karen,Montgomery,cartermaria@example.net,Mid-Market,Education,AU,Event,2025-02-03,True
+CUST00017,Jose,White,debra10@example.com,Enterprise,Healthcare,US,Event,2023-12-15,True
+CUST00018,Michael,Clayton,piercedenise@example.net,SMB,Technology,FR,Direct,2025-02-14,False
+CUST00019,Christopher,Page,brucetaylor@example.com,SMB,Healthcare,SE,Email Referral,2023-10-06,False
+CUST00020,Katherine,Jones,gserrano@example.net,Consumer,Healthcare,CA,Paid Search,2023-12-23,True
+CUST00021,Joshua,Gonzalez,westwilliam@example.org,SMB,Education,NL,Direct,2023-06-09,True
+CUST00022,Micheal,Payne,marshjacqueline@example.net,Mid-Market,Healthcare,SE,Organic Search,2025-02-17,True
+CUST00023,Karen,Jones,brucejeffrey@example.org,Enterprise,Healthcare,DE,Event,2026-01-25,True
+CUST00024,Trevor,Harvey,jacqueline66@example.net,Enterprise,Retail,NL,Direct,2026-02-19,False
+CUST00025,Christina,Lawrence,joseph59@example.com,SMB,Manufacturing,US,Webinar,2023-05-27,True
+CUST00026,Brett,Mooney,lfitzpatrick@example.net,SMB,Education,AU,Organic Search,2023-07-13,True
+CUST00027,Elizabeth,Lewis,castrojill@example.net,Mid-Market,Retail,US,Webinar,2023-10-23,False
+CUST00028,Pamela,Bennett,micheal70@example.com,SMB,Manufacturing,DE,Direct,2023-06-13,False
+CUST00029,Susan,Soto,rebeccajenkins@example.com,SMB,Education,FR,Paid Search,2025-05-29,True
+CUST00030,Charles,Martin,nwise@example.org,Mid-Market,Manufacturing,US,Direct,2024-12-06,True
+CUST00031,Brian,Anderson,cortezgeorge@example.com,Enterprise,Technology,AU,Event,2025-07-31,False
+CUST00032,Kristy,Black,katherinerodriguez@example.com,Mid-Market,Technology,FR,Direct,2023-07-20,False
+CUST00033,Charles,Ortega,robersonbenjamin@example.com,Enterprise,Education,SE,Event,2026-04-09,True
+CUST00034,Shawn,Mills,anthonyrobinson@example.net,Mid-Market,Healthcare,SE,Direct,2025-09-29,True
+CUST00035,Nichole,Espinoza,raymondreid@example.net,Consumer,Healthcare,FR,Webinar,2024-06-20,True
+CUST00036,Cassidy,Hodges,christopherwilson@example.org,SMB,Retail,SE,Organic Search,2025-04-13,True
+CUST00037,William,Reed,christopher96@example.com,Enterprise,Finance,US,Direct,2024-01-28,True
+CUST00038,Michael,Baker,patriciadougherty@example.com,Mid-Market,Technology,UK,Webinar,2025-05-04,True
+CUST00039,Kimberly,Gonzales,phayden@example.net,Mid-Market,Technology,US,Event,2024-07-12,True
+CUST00040,Andre,Anderson,angelacooke@example.com,Mid-Market,Finance,SE,Paid Search,2024-04-10,True
+CUST00041,Rachel,Stone,urobinson@example.com,Consumer,Healthcare,SE,Event,2024-02-12,True
+CUST00042,Michelle,Gray,wolfeelizabeth@example.com,Enterprise,Technology,NL,Paid Social,2024-10-19,True
+CUST00043,Linda,Webb,kimberly30@example.com,Consumer,Education,US,Webinar,2023-07-27,True
+CUST00044,Kelly,Reyes,daisyjones@example.net,Enterprise,Technology,NL,Webinar,2025-03-19,True
+CUST00045,Haley,Carpenter,istevens@example.net,Enterprise,Healthcare,FR,Paid Search,2023-12-05,True
+CUST00046,Cynthia,Schmitt,stephanie08@example.com,Mid-Market,Retail,DE,Paid Social,2023-11-23,True
+CUST00047,Robin,Swanson,zalvarez@example.com,Enterprise,Retail,UK,Organic Search,2024-11-14,True
+CUST00048,Michael,Morgan,combslisa@example.org,Enterprise,Technology,FR,Paid Search,2023-07-06,True
+CUST00049,Austin,Holloway,moniquejohnston@example.org,Consumer,Healthcare,NL,Organic Search,2025-01-30,True
+CUST00050,Laurie,Arnold,penningtoncarla@example.com,Enterprise,Retail,CA,Event,2025-10-28,True
+CUST00051,James,Myers,macdonaldjacqueline@example.com,SMB,Retail,SE,Paid Search,2025-03-06,True
+CUST00052,Shirley,Johnson,qarias@example.com,Mid-Market,Technology,US,Webinar,2023-08-01,True
+CUST00053,Alejandro,Fowler,hernandeztodd@example.org,Enterprise,Manufacturing,SE,Direct,2026-02-18,False
+CUST00054,Robert,Lee,bishopstephanie@example.net,Mid-Market,Technology,UK,Event,2025-01-30,True
+CUST00055,Linda,Pierce,dawnwright@example.net,Enterprise,Education,FR,Email Referral,2023-10-05,True
+CUST00056,Daniel,King,stevensmith@example.org,Mid-Market,Manufacturing,US,Direct,2023-12-19,True
+CUST00057,Karen,Williams,russellmelissa@example.com,SMB,Finance,FR,Webinar,2023-12-29,True
+CUST00058,Lindsey,Schmidt,vjones@example.com,Mid-Market,Finance,NL,Paid Search,2024-08-19,True
+CUST00059,George,Gardner,martinmichael@example.com,SMB,Retail,AU,Event,2024-05-26,False
+CUST00060,Bradley,Mullins,kyliejones@example.com,Enterprise,Retail,UK,Organic Search,2023-12-15,True
+CUST00061,Amber,Brown,lopezchelsea@example.com,SMB,Healthcare,AU,Organic Search,2023-09-25,False
+CUST00062,Miranda,Walter,mccarthyshannon@example.org,SMB,Finance,DE,Email Referral,2023-07-22,False
+CUST00063,Greg,Johnson,alicia45@example.net,SMB,Manufacturing,US,Webinar,2024-02-10,False
+CUST00064,Jackson,Salazar,gerald47@example.com,SMB,Education,UK,Paid Search,2024-05-17,True
+CUST00065,Gary,Middleton,howellarthur@example.com,Enterprise,Education,DE,Paid Social,2024-12-20,True
+CUST00066,Chase,Schroeder,kimberlyblack@example.org,Mid-Market,Education,AU,Paid Search,2024-11-29,True
+CUST00067,Ryan,Sexton,michael95@example.org,SMB,Manufacturing,SE,Paid Social,2026-02-27,False
+CUST00068,Marie,Fernandez,qjackson@example.org,Enterprise,Technology,NL,Event,2024-11-30,True
+CUST00069,Teresa,Harding,xholloway@example.com,Enterprise,Finance,DE,Webinar,2024-03-17,False
+CUST00070,James,Pratt,xcombs@example.org,Mid-Market,Education,SE,Direct,2026-02-18,True
+CUST00071,Tara,Russell,vgonzalez@example.org,Enterprise,Technology,UK,Webinar,2026-02-23,False
+CUST00072,Zachary,Stuart,harrisonbilly@example.org,Enterprise,Finance,DE,Email Referral,2024-03-28,True
+CUST00073,Maria,Middleton,charlene50@example.com,SMB,Finance,US,Paid Social,2025-01-02,True
+CUST00074,Allison,Miller,russellmark@example.net,Mid-Market,Education,UK,Paid Social,2025-04-05,True
+CUST00075,Kristi,Ortiz,ajohnson@example.org,Consumer,Manufacturing,DE,Paid Search,2025-11-13,False
+CUST00076,Erik,Miller,natalieclarke@example.net,Mid-Market,Retail,US,Paid Search,2025-12-18,True
+CUST00077,Jerry,Macdonald,ucruz@example.com,SMB,Retail,FR,Paid Social,2023-09-27,True
+CUST00078,Julie,Coffey,walshrick@example.org,Enterprise,Retail,US,Event,2024-02-15,True
+CUST00079,Anthony,Smith,brenda70@example.net,Mid-Market,Retail,AU,Paid Social,2024-04-11,False
+CUST00080,Alice,Hardy,anthonymckay@example.net,Mid-Market,Healthcare,US,Webinar,2023-07-01,True
+CUST00081,Robert,Morris,acevedoruben@example.net,SMB,Finance,UK,Event,2024-04-04,True
+CUST00082,Hayley,Campbell,josephshannon@example.net,Consumer,Education,AU,Organic Search,2024-10-29,True
+CUST00083,Ian,Chavez,andrew93@example.net,SMB,Healthcare,CA,Organic Search,2025-08-02,True
+CUST00084,Nicole,Jimenez,wendy33@example.net,Consumer,Finance,AU,Email Referral,2023-06-05,True
+CUST00085,Kevin,Fitzgerald,jortega@example.net,Enterprise,Retail,FR,Paid Social,2026-04-01,True
+CUST00086,Heather,Burton,martincaroline@example.com,Consumer,Technology,FR,Paid Social,2024-01-09,True
+CUST00087,Carmen,Jones,theodore83@example.net,SMB,Manufacturing,AU,Webinar,2025-01-14,False
+CUST00088,Michael,Wood,swansonmarco@example.com,SMB,Manufacturing,CA,Webinar,2023-12-21,True
+CUST00089,Shannon,Bauer,roberta67@example.net,Consumer,Education,CA,Direct,2023-07-25,True
+CUST00090,Rhonda,Hernandez,whitakergregory@example.com,Consumer,Education,NL,Webinar,2024-04-23,True
+CUST00091,Shannon,Meyer,mistylopez@example.org,Mid-Market,Manufacturing,CA,Email Referral,2023-09-29,True
+CUST00092,Susan,Wilson,joseph97@example.net,Enterprise,Finance,CA,Paid Search,2023-09-15,True
+CUST00093,Gregory,Lin,oallen@example.com,SMB,Retail,SE,Email Referral,2025-08-25,True
+CUST00094,Eric,Fletcher,nelsonjennifer@example.com,Consumer,Education,DE,Webinar,2025-07-24,True
+CUST00095,Mary,Ruiz,danielsashley@example.net,SMB,Technology,FR,Webinar,2025-07-21,True
+CUST00096,Brittany,Sims,steinrandall@example.org,Mid-Market,Healthcare,US,Organic Search,2024-12-22,True
+CUST00097,Linda,Rangel,josephlandry@example.net,Consumer,Manufacturing,UK,Email Referral,2023-07-03,True
+CUST00098,Jesse,Carter,masonwiley@example.org,Mid-Market,Education,NL,Email Referral,2026-01-17,True
+CUST00099,Jeremiah,Singleton,christine89@example.com,Mid-Market,Education,US,Event,2026-03-12,False
+CUST00100,Susan,Barrett,danny40@example.net,Enterprise,Retail,FR,Paid Search,2024-05-19,False
+CUST00101,Hailey,Johnson,kryan@example.org,Consumer,Technology,FR,Event,2024-03-07,True
+CUST00102,David,Dunn,jennifer12@example.org,Mid-Market,Retail,AU,Event,2025-09-15,False
+CUST00103,Bryan,Hoffman,qscott@example.org,Consumer,Manufacturing,SE,Paid Search,2025-11-07,True
+CUST00104,Jeffrey,Kennedy,michaeloneill@example.net,Consumer,Retail,CA,Event,2025-01-30,True
+CUST00105,Robert,Hansen,karenbowen@example.org,SMB,Manufacturing,SE,Webinar,2024-03-21,True
+CUST00106,Elizabeth,Henderson,todd20@example.com,Consumer,Technology,CA,Paid Search,2024-06-19,True
+CUST00107,Chelsey,Solis,handerson@example.com,SMB,Manufacturing,UK,Paid Search,2023-12-04,True
+CUST00108,Carmen,Oliver,johngutierrez@example.org,Consumer,Education,DE,Webinar,2026-02-17,True
+CUST00109,Dean,Shaw,kdavis@example.net,Consumer,Retail,AU,Direct,2026-01-17,True
+CUST00110,Katie,Walls,wjohnson@example.com,Enterprise,Healthcare,NL,Email Referral,2024-08-07,False
+CUST00111,Crystal,Sloan,anthony63@example.com,Enterprise,Manufacturing,NL,Email Referral,2024-07-10,True
+CUST00112,Shannon,Suarez,sherryparker@example.net,SMB,Finance,NL,Event,2025-05-19,False
+CUST00113,Robert,Barrett,jeffreynielsen@example.com,Consumer,Manufacturing,FR,Email Referral,2025-12-15,True
+CUST00114,Hunter,Larson,kellykelly@example.net,Consumer,Retail,US,Email Referral,2026-02-15,True
+CUST00115,Breanna,Mendoza,lbeck@example.com,Consumer,Education,DE,Event,2025-10-20,True
+CUST00116,Erin,Mcdaniel,owebb@example.net,Mid-Market,Manufacturing,US,Email Referral,2024-10-30,True
+CUST00117,Heather,Turner,schroederjohn@example.com,Enterprise,Technology,NL,Paid Search,2025-03-06,False
+CUST00118,Robert,Sanchez,dstewart@example.org,Mid-Market,Technology,CA,Email Referral,2025-05-11,True
+CUST00119,Michael,Jones,jessica15@example.org,Consumer,Finance,AU,Event,2024-01-10,False
+CUST00120,Clifford,Jones,thomas68@example.org,SMB,Retail,CA,Event,2024-06-03,True
+CUST00121,Tiffany,Moore,manuelwest@example.com,Enterprise,Education,US,Paid Social,2023-06-12,True
+CUST00122,Courtney,Patel,michael86@example.org,Enterprise,Education,US,Event,2025-04-22,True
+CUST00123,Karina,White,thomas95@example.org,Mid-Market,Healthcare,US,Direct,2025-03-09,True
+CUST00124,John,Walker,nicholsonlarry@example.org,Mid-Market,Retail,UK,Direct,2024-05-17,False
+CUST00125,Dennis,Mcclure,susanscott@example.net,Consumer,Education,CA,Event,2025-09-14,True
+CUST00126,Anthony,Bass,victoria70@example.net,Enterprise,Healthcare,CA,Organic Search,2025-01-18,True
+CUST00127,Dana,Rangel,ogreen@example.net,SMB,Manufacturing,NL,Email Referral,2025-07-24,False
+CUST00128,Alicia,Miller,jodiphillips@example.net,Mid-Market,Technology,FR,Organic Search,2024-11-14,True
+CUST00129,Robert,Bell,christophergraham@example.com,SMB,Education,UK,Event,2024-12-23,False
+CUST00130,Betty,Mathis,bookershane@example.com,Enterprise,Finance,NL,Webinar,2024-12-13,True
+CUST00131,Timothy,Holmes,cwells@example.org,SMB,Technology,NL,Event,2023-09-06,True
+CUST00132,Shannon,Good,ustephens@example.com,Consumer,Finance,SE,Webinar,2025-09-18,True
+CUST00133,Joseph,Dixon,sarabates@example.net,Mid-Market,Education,CA,Direct,2025-08-11,False
+CUST00134,Ashley,Ferguson,morrisonanthony@example.net,Consumer,Retail,NL,Event,2023-10-04,True
+CUST00135,Raymond,Flores,raymondwhite@example.com,SMB,Finance,FR,Event,2024-10-26,False
+CUST00136,Danny,Fletcher,anthonychen@example.org,SMB,Retail,FR,Event,2026-03-24,True
+CUST00137,Zachary,Soto,pereztroy@example.com,Consumer,Finance,US,Email Referral,2026-01-11,False
+CUST00138,Ryan,Mckinney,rhartman@example.org,Mid-Market,Retail,FR,Paid Social,2025-05-02,True
+CUST00139,Ryan,Andrade,martinsusan@example.org,SMB,Finance,CA,Direct,2025-09-21,True
+CUST00140,Erin,Shepherd,tracy46@example.org,Mid-Market,Technology,FR,Webinar,2025-12-20,True
+CUST00141,Joseph,Johnson,austin95@example.net,Mid-Market,Education,SE,Webinar,2025-11-30,True
+CUST00142,Melissa,Silva,anitabell@example.com,Consumer,Technology,UK,Paid Social,2023-10-18,True
+CUST00143,Ashley,Lee,brandon89@example.org,Mid-Market,Finance,AU,Email Referral,2024-10-16,True
+CUST00144,Carlos,Parker,velasquezchristopher@example.org,SMB,Retail,AU,Paid Social,2026-04-07,True
+CUST00145,Amanda,Oliver,stacey59@example.net,SMB,Finance,CA,Paid Search,2024-07-20,True
+CUST00146,Robin,Juarez,pricenicholas@example.org,Mid-Market,Finance,UK,Webinar,2024-01-13,True
+CUST00147,Brad,Harris,michaelsmith@example.net,Mid-Market,Healthcare,FR,Webinar,2026-02-06,True
+CUST00148,April,Ramsey,christiantammy@example.net,SMB,Technology,FR,Paid Social,2024-08-07,True
+CUST00149,Gregory,Hester,reynoldsdaniel@example.com,Mid-Market,Finance,US,Webinar,2024-07-01,True
+CUST00150,Alyssa,Harvey,ashley92@example.net,SMB,Technology,US,Direct,2025-03-04,True
+CUST00151,Eric,Wilson,smithjohnny@example.com,Mid-Market,Education,SE,Organic Search,2025-04-20,False
+CUST00152,Billy,Perry,craigwilliams@example.org,SMB,Retail,SE,Email Referral,2024-02-15,True
+CUST00153,Erica,Jenkins,melissa47@example.net,Enterprise,Finance,SE,Organic Search,2024-09-08,False
+CUST00154,Robert,West,mvincent@example.net,Consumer,Retail,UK,Direct,2024-02-09,True
+CUST00155,Dawn,Spencer,jyates@example.com,Enterprise,Healthcare,DE,Event,2025-02-24,True
+CUST00156,Brenda,Stewart,perezgavin@example.org,SMB,Technology,FR,Organic Search,2024-09-28,True
+CUST00157,Jennifer,Frye,pyoung@example.com,Consumer,Manufacturing,FR,Event,2024-08-05,True
+CUST00158,Monica,Flores,chapmanlaura@example.net,Consumer,Retail,CA,Event,2024-04-25,True
+CUST00159,Paul,Lopez,catherine88@example.org,Consumer,Finance,US,Direct,2023-05-11,False
+CUST00160,Jessica,Hernandez,zthompson@example.net,Enterprise,Healthcare,FR,Paid Social,2024-06-22,True
+CUST00161,Elizabeth,Owens,johnfranklin@example.org,Mid-Market,Healthcare,DE,Direct,2023-10-03,True
+CUST00162,Jason,Anderson,tracysimmons@example.net,Enterprise,Retail,SE,Webinar,2025-08-03,True
+CUST00163,Natalie,Cochran,wandasimpson@example.org,SMB,Technology,FR,Paid Social,2025-01-02,True
+CUST00164,Michael,Jones,sodonnell@example.com,Consumer,Technology,FR,Paid Social,2023-06-03,True
+CUST00165,David,Patel,levyjennifer@example.net,Mid-Market,Retail,UK,Direct,2024-10-17,True
+CUST00166,Melissa,Garza,gibsonlinda@example.com,Mid-Market,Finance,DE,Organic Search,2024-08-02,True
+CUST00167,Sarah,Carter,lauren31@example.org,SMB,Manufacturing,CA,Email Referral,2025-10-07,True
+CUST00168,Tonya,Mcdaniel,fergusonrebecca@example.com,SMB,Education,NL,Paid Social,2023-10-28,True
+CUST00169,Samantha,Townsend,stacy43@example.org,Consumer,Retail,UK,Direct,2024-05-06,True
+CUST00170,Elizabeth,Benitez,matthewjackson@example.com,Consumer,Education,AU,Direct,2025-11-11,True
+CUST00171,Jonathan,Gray,millerkathy@example.com,Enterprise,Healthcare,US,Event,2025-08-04,True
+CUST00172,Daniel,Morrison,taylorsusan@example.com,SMB,Manufacturing,US,Event,2023-12-18,True
+CUST00173,Paul,Jones,sheila11@example.net,Consumer,Manufacturing,SE,Paid Social,2025-11-08,True
+CUST00174,Meghan,Lopez,turneraaron@example.com,Consumer,Education,SE,Organic Search,2023-10-06,True
+CUST00175,Meghan,Wright,williamsdenise@example.net,Consumer,Finance,AU,Webinar,2024-12-29,True
+CUST00176,Tammy,Torres,thomasdaniels@example.net,Mid-Market,Finance,NL,Webinar,2024-03-02,True
+CUST00177,Dustin,Moody,lowerygina@example.com,Consumer,Manufacturing,US,Email Referral,2024-07-04,True
+CUST00178,Hannah,Pratt,anitasalas@example.net,SMB,Finance,UK,Event,2023-08-14,True
+CUST00179,Victor,Stark,jberry@example.net,Enterprise,Education,SE,Email Referral,2025-10-12,True
+CUST00180,Todd,Jackson,jonesmichael@example.org,SMB,Manufacturing,SE,Webinar,2024-11-04,True
+CUST00181,Mark,Spencer,vwhite@example.com,Enterprise,Healthcare,CA,Direct,2025-07-31,True
+CUST00182,Rachel,Dickerson,sandersmark@example.net,SMB,Retail,SE,Organic Search,2025-02-13,True
+CUST00183,Michael,Williams,palmerjoshua@example.net,Mid-Market,Education,DE,Paid Social,2025-09-11,True
+CUST00184,Michael,Stewart,hclark@example.com,Consumer,Technology,FR,Event,2024-02-26,False
+CUST00185,Adam,Ramirez,wmitchell@example.com,Consumer,Technology,DE,Email Referral,2023-12-08,False
+CUST00186,Hannah,Sellers,darlene16@example.net,SMB,Manufacturing,CA,Email Referral,2024-01-05,False
+CUST00187,Marcia,Mccarthy,dhatfield@example.org,Consumer,Healthcare,SE,Direct,2024-01-12,True
+CUST00188,Jacob,Larsen,ccook@example.net,Mid-Market,Manufacturing,DE,Event,2023-06-07,True
+CUST00189,Mark,Ferrell,leonardmiguel@example.org,Consumer,Finance,CA,Event,2024-04-28,True
+CUST00190,Glen,Nelson,omcbride@example.com,SMB,Manufacturing,SE,Event,2025-08-30,True
+CUST00191,Craig,Marshall,cole16@example.org,Consumer,Finance,AU,Direct,2025-04-01,True
+CUST00192,Emily,Thomas,michael38@example.org,Consumer,Retail,AU,Event,2025-07-14,True
+CUST00193,Stacy,Brown,adrienneortega@example.org,Mid-Market,Manufacturing,NL,Paid Search,2024-04-07,False
+CUST00194,Michelle,Ross,kimberly61@example.org,Consumer,Technology,AU,Webinar,2025-10-11,True
+CUST00195,James,Alvarez,ortegaelizabeth@example.net,Consumer,Retail,DE,Email Referral,2023-04-25,False
+CUST00196,Gregory,Meadows,kristenjones@example.com,Mid-Market,Manufacturing,AU,Event,2023-05-11,True
+CUST00197,Christopher,Green,rmooney@example.net,Consumer,Technology,SE,Organic Search,2024-11-02,True
+CUST00198,Ashley,Bennett,milesrichard@example.org,Consumer,Education,DE,Organic Search,2025-07-25,True
+CUST00199,Alexis,Mendoza,fowlerpatricia@example.com,SMB,Finance,NL,Webinar,2024-10-01,True
+CUST00200,John,Lewis,ryansolomon@example.net,SMB,Education,NL,Paid Social,2024-02-06,True
+CUST00201,Matthew,Garrett,cassandra58@example.net,Consumer,Manufacturing,US,Direct,2026-02-16,True
+CUST00202,Victoria,Aguirre,michael15@example.org,SMB,Healthcare,UK,Email Referral,2025-05-27,False
+CUST00203,Jeremy,Cooper,molinastacie@example.net,Enterprise,Retail,DE,Webinar,2026-01-23,True
+CUST00204,Jasmine,Dillon,rebeccawright@example.org,Enterprise,Technology,AU,Event,2023-05-29,True
+CUST00205,Karen,Young,rachel45@example.org,SMB,Finance,NL,Paid Search,2024-05-05,True
+CUST00206,Laura,Reed,browndouglas@example.com,Consumer,Manufacturing,DE,Paid Search,2025-08-10,True
+CUST00207,Robert,Reyes,wesleyjordan@example.com,Consumer,Manufacturing,FR,Email Referral,2023-12-25,False
+CUST00208,Troy,Fisher,miranda17@example.com,Mid-Market,Healthcare,SE,Webinar,2023-08-24,True
+CUST00209,Jonathan,Turner,nclay@example.com,SMB,Education,US,Event,2024-11-28,True
+CUST00210,Joseph,English,cordovajulie@example.com,SMB,Education,DE,Organic Search,2025-02-07,True
+CUST00211,Angie,Garner,roblestaylor@example.org,SMB,Manufacturing,CA,Webinar,2025-05-16,False
+CUST00212,Kenneth,Carroll,linbrooke@example.com,SMB,Retail,CA,Paid Search,2025-10-09,False
+CUST00213,Dylan,Taylor,charlesbowers@example.net,Consumer,Technology,FR,Email Referral,2023-11-16,True
+CUST00214,Andrew,Smith,juliebell@example.net,SMB,Education,CA,Organic Search,2024-07-27,False
+CUST00215,Tracy,Mendoza,qjones@example.net,Consumer,Finance,US,Direct,2024-08-12,False
+CUST00216,Danielle,Hernandez,ifox@example.net,Enterprise,Manufacturing,SE,Event,2023-07-12,False
+CUST00217,Amy,Wolfe,virginia12@example.net,SMB,Healthcare,AU,Paid Search,2024-08-10,True
+CUST00218,Christy,Newman,agordon@example.org,SMB,Education,DE,Webinar,2024-08-31,True
+CUST00219,Thomas,Hernandez,sflores@example.com,Enterprise,Finance,SE,Organic Search,2023-06-26,True
+CUST00220,Ashley,Cook,brian49@example.com,Mid-Market,Technology,CA,Paid Social,2024-11-05,True
+CUST00221,Paul,Ochoa,cindy18@example.com,Mid-Market,Healthcare,DE,Event,2025-05-30,True
+CUST00222,Cassie,Smith,caldwellkenneth@example.org,SMB,Manufacturing,CA,Event,2025-07-11,True
+CUST00223,Miguel,Baldwin,morriskelli@example.net,Consumer,Finance,AU,Event,2025-11-24,True
+CUST00224,Kristi,Ramos,douglas35@example.org,Enterprise,Healthcare,FR,Event,2024-03-25,True
+CUST00225,Whitney,Adams,walkeremily@example.net,Consumer,Manufacturing,AU,Organic Search,2024-05-16,True
+CUST00226,Kyle,Burns,hfowler@example.com,Enterprise,Finance,UK,Email Referral,2025-10-24,True
+CUST00227,Sarah,Lewis,sandra78@example.org,SMB,Manufacturing,NL,Event,2025-08-30,True
+CUST00228,David,Williams,frostkathleen@example.org,SMB,Technology,FR,Email Referral,2025-03-25,True
+CUST00229,Andrea,Lane,aarondalton@example.org,SMB,Manufacturing,FR,Webinar,2025-05-28,True
+CUST00230,Danielle,Lewis,jessicaramirez@example.net,Consumer,Education,CA,Webinar,2025-05-10,True
+CUST00231,Steven,Blake,johnsonamber@example.com,Mid-Market,Technology,US,Paid Social,2025-01-17,False
+CUST00232,David,Haynes,frederickhull@example.net,Enterprise,Technology,FR,Direct,2023-09-20,True
+CUST00233,William,Ross,parkerkelley@example.org,Consumer,Finance,NL,Direct,2024-01-03,True
+CUST00234,Jeffrey,Watson,johnsondavid@example.net,Mid-Market,Retail,UK,Event,2025-04-24,True
+CUST00235,Sara,Walter,elizabethcarpenter@example.org,Consumer,Finance,US,Webinar,2025-08-27,True
+CUST00236,Michelle,Munoz,qhunt@example.com,Consumer,Retail,FR,Event,2024-10-19,True
+CUST00237,Anthony,Lutz,antoniojohnson@example.net,SMB,Manufacturing,AU,Organic Search,2026-01-02,True
+CUST00238,Tyler,Brown,ayoung@example.org,Mid-Market,Technology,SE,Organic Search,2024-04-29,True
+CUST00239,Janice,Gibson,kristin95@example.net,Enterprise,Technology,AU,Paid Search,2025-12-28,False
+CUST00240,Alexander,Sanford,williamsbrittany@example.com,Mid-Market,Technology,FR,Direct,2024-11-13,True
+CUST00241,Sarah,Johnson,teresatrujillo@example.com,Mid-Market,Finance,DE,Event,2025-03-12,False
+CUST00242,Albert,Palmer,barnettdillon@example.org,Enterprise,Finance,DE,Paid Search,2026-04-14,True
+CUST00243,Jacob,Williams,william57@example.org,Mid-Market,Technology,US,Paid Search,2023-09-14,True
+CUST00244,Jackie,Wallace,wbutler@example.org,Mid-Market,Manufacturing,AU,Organic Search,2024-10-25,True
+CUST00245,Stephen,Dunlap,shieldsmaria@example.net,Enterprise,Healthcare,NL,Direct,2023-12-04,True
+CUST00246,Erin,Sparks,longkristy@example.com,Enterprise,Retail,SE,Event,2025-09-12,True
+CUST00247,Christopher,Bentley,dunnvalerie@example.org,Enterprise,Retail,FR,Direct,2024-09-18,True
+CUST00248,Adrian,Flores,byu@example.com,SMB,Retail,US,Organic Search,2023-05-15,False
+CUST00249,Mitchell,Ramirez,wileybill@example.net,Consumer,Retail,UK,Email Referral,2024-06-07,True
+CUST00250,Tyler,Small,ghernandez@example.com,Consumer,Technology,UK,Paid Social,2025-08-13,True
+CUST00251,Amanda,Carney,ramosdonald@example.com,Enterprise,Healthcare,CA,Direct,2023-11-23,True
+CUST00252,Patricia,Williams,william23@example.org,SMB,Retail,CA,Email Referral,2025-01-04,True
+CUST00253,Jerome,Johnson,kylewright@example.net,Consumer,Technology,UK,Event,2023-06-30,True
+CUST00254,Brandon,Reid,rjones@example.com,Mid-Market,Retail,SE,Paid Search,2025-09-17,True
+CUST00255,Chris,Gonzalez,matthewfrazier@example.com,Consumer,Retail,NL,Webinar,2023-10-27,True
+CUST00256,Melinda,Smith,ftorres@example.net,Consumer,Finance,CA,Paid Social,2026-01-27,False
+CUST00257,Teresa,Navarro,laurarangel@example.com,Consumer,Technology,UK,Event,2024-06-27,True
+CUST00258,Scott,Morgan,bushmadison@example.org,Consumer,Technology,AU,Event,2025-12-16,True
+CUST00259,Thomas,Miranda,evansnatalie@example.net,Enterprise,Manufacturing,AU,Webinar,2023-05-02,True
+CUST00260,Rachel,Smith,keithkirk@example.net,SMB,Education,NL,Event,2024-04-04,False
+CUST00261,Cameron,Price,whitneygarcia@example.net,Enterprise,Finance,CA,Paid Social,2023-07-23,True
+CUST00262,Brandon,Williams,rothtyler@example.com,Mid-Market,Healthcare,SE,Paid Search,2024-08-10,False
+CUST00263,Teresa,Henderson,burtonkenneth@example.com,SMB,Manufacturing,AU,Organic Search,2023-11-16,True
+CUST00264,Frank,Townsend,barnettkrystal@example.org,Mid-Market,Retail,US,Direct,2025-06-16,False
+CUST00265,Kristin,Cruz,melissa72@example.net,SMB,Technology,DE,Paid Social,2024-06-08,True
+CUST00266,Nathan,Harris,megan15@example.com,SMB,Finance,AU,Organic Search,2023-05-24,True
+CUST00267,Juan,Pearson,uray@example.org,Mid-Market,Manufacturing,NL,Organic Search,2026-04-06,True
+CUST00268,Brian,Barajas,smithjames@example.net,Enterprise,Technology,FR,Email Referral,2024-05-28,True
+CUST00269,Todd,Levine,max87@example.net,SMB,Healthcare,AU,Paid Social,2025-07-24,True
+CUST00270,Monica,Cook,henrysamantha@example.org,Enterprise,Technology,DE,Paid Search,2023-09-07,True
+CUST00271,Ian,Mccullough,trujillostephen@example.com,Enterprise,Education,UK,Paid Social,2025-06-22,True
+CUST00272,Nicole,Green,hugheskathryn@example.net,Consumer,Retail,SE,Email Referral,2024-05-16,True
+CUST00273,Ronald,Alexander,zwalton@example.net,Enterprise,Finance,NL,Organic Search,2023-07-24,True
+CUST00274,Karen,Thomas,wwilliams@example.net,Consumer,Manufacturing,CA,Organic Search,2024-03-03,True
+CUST00275,Shawn,Johnson,snyderkeith@example.org,Enterprise,Technology,FR,Paid Social,2023-09-23,False
+CUST00276,Zachary,West,jacquelinebest@example.com,Mid-Market,Finance,CA,Paid Social,2023-11-18,True
+CUST00277,Angela,Rangel,karl15@example.net,Consumer,Education,NL,Paid Search,2025-08-06,True
+CUST00278,Paul,Rose,jennifercole@example.com,Mid-Market,Manufacturing,AU,Organic Search,2023-08-09,True
+CUST00279,Madison,Garcia,gcabrera@example.net,Enterprise,Retail,US,Email Referral,2023-09-02,False
+CUST00280,Mindy,Ferguson,cunninghamnicole@example.com,SMB,Manufacturing,NL,Direct,2024-07-19,True
+CUST00281,Glenn,Walker,tonycordova@example.net,Consumer,Finance,UK,Email Referral,2024-02-23,True
+CUST00282,John,Conway,shellychung@example.com,SMB,Healthcare,SE,Event,2025-03-25,True
+CUST00283,Dillon,Lewis,mark39@example.com,SMB,Technology,NL,Event,2025-08-24,True
+CUST00284,Mathew,Mcgee,ramirezjames@example.org,Consumer,Manufacturing,NL,Direct,2024-07-01,True
+CUST00285,Jessica,Lane,dannypage@example.org,SMB,Education,AU,Paid Search,2024-07-12,True
+CUST00286,Kevin,Moran,sstevens@example.org,Mid-Market,Technology,UK,Direct,2024-10-11,True
+CUST00287,Samuel,Cruz,donnacarroll@example.net,SMB,Finance,DE,Paid Search,2023-11-30,True
+CUST00288,Luis,Montgomery,christopher26@example.net,SMB,Healthcare,DE,Direct,2023-12-05,True
+CUST00289,Patrick,Reyes,tlopez@example.com,Enterprise,Healthcare,SE,Email Referral,2024-06-03,True
+CUST00290,Erica,Todd,nicholassantiago@example.org,Consumer,Education,AU,Event,2023-11-12,False
+CUST00291,Charles,Vaughn,webbstephen@example.com,SMB,Healthcare,SE,Organic Search,2025-10-23,True
+CUST00292,Joseph,Ortega,steve89@example.com,SMB,Finance,US,Paid Social,2024-08-30,True
+CUST00293,Christine,Brown,usmith@example.net,SMB,Retail,SE,Organic Search,2024-04-16,True
+CUST00294,Gary,Hayes,cwalker@example.com,SMB,Technology,UK,Direct,2023-11-19,True
+CUST00295,Robert,Blake,kathy08@example.net,Consumer,Retail,US,Email Referral,2025-10-29,False
+CUST00296,Veronica,Castro,xmoore@example.com,Mid-Market,Finance,SE,Direct,2025-02-05,True
+CUST00297,Crystal,Hoffman,edwardmeyer@example.com,Enterprise,Retail,UK,Event,2025-03-09,False
+CUST00298,Scott,Mays,amygarcia@example.net,SMB,Education,UK,Direct,2024-07-29,True
+CUST00299,Rachel,Jarvis,michelle35@example.org,Enterprise,Healthcare,SE,Email Referral,2024-03-08,True
+CUST00300,Brittany,Nolan,wrose@example.org,Mid-Market,Finance,AU,Paid Social,2024-03-14,True
+CUST00301,Albert,Gonzalez,lindawhite@example.com,SMB,Education,US,Event,2024-08-17,True
+CUST00302,Albert,Smith,floreserica@example.net,SMB,Technology,AU,Organic Search,2023-06-22,True
+CUST00303,Isaiah,Ramirez,qmueller@example.net,Consumer,Finance,CA,Webinar,2024-09-19,False
+CUST00304,Samantha,Johnson,steven43@example.org,Mid-Market,Finance,UK,Direct,2025-11-12,True
+CUST00305,Gloria,White,lisa55@example.net,SMB,Finance,NL,Paid Search,2023-04-26,True
+CUST00306,Patricia,Miller,kmoore@example.net,Enterprise,Finance,NL,Webinar,2024-03-04,True
+CUST00307,Carlos,Brown,colleensnyder@example.net,Mid-Market,Education,UK,Webinar,2024-12-06,True
+CUST00308,Tracy,Rice,bdavis@example.net,SMB,Technology,AU,Paid Social,2024-05-29,True
+CUST00309,Joan,Dillon,beth34@example.com,Mid-Market,Finance,SE,Paid Search,2023-09-11,True
+CUST00310,Christopher,Moore,shernandez@example.net,Mid-Market,Healthcare,UK,Paid Social,2023-09-19,False
+CUST00311,Michael,Kelley,mwatkins@example.com,Enterprise,Manufacturing,US,Webinar,2024-05-18,True
+CUST00312,Steven,Richard,lauralee@example.net,Mid-Market,Manufacturing,NL,Paid Search,2023-08-31,True
+CUST00313,Alexander,Marquez,hcooley@example.org,Mid-Market,Education,SE,Organic Search,2023-10-20,True
+CUST00314,Michael,Lopez,emily46@example.com,Mid-Market,Retail,CA,Event,2025-12-17,True
+CUST00315,Daniel,Charles,oliverjustin@example.com,Consumer,Healthcare,FR,Paid Social,2023-09-24,False
+CUST00316,Robert,Brown,joshua29@example.net,Consumer,Healthcare,AU,Webinar,2025-06-27,False
+CUST00317,Mitchell,Morales,wwolf@example.net,Consumer,Retail,CA,Event,2024-03-04,True
+CUST00318,Matthew,Richardson,lori97@example.com,Consumer,Healthcare,FR,Event,2025-07-04,True
+CUST00319,Clayton,Williams,arobinson@example.net,SMB,Technology,SE,Event,2023-10-27,True
+CUST00320,John,Davis,mccartykimberly@example.org,Enterprise,Education,UK,Paid Social,2025-02-10,True
+CUST00321,Erica,Coleman,wyates@example.net,Mid-Market,Finance,SE,Direct,2023-07-16,True
+CUST00322,Edward,Miller,rebeccawarner@example.net,Consumer,Technology,FR,Event,2024-10-25,True
+CUST00323,Vanessa,Collins,nsparks@example.net,SMB,Technology,NL,Organic Search,2026-03-06,True
+CUST00324,Latoya,Rivas,rachelwilson@example.com,SMB,Healthcare,NL,Organic Search,2025-10-16,True
+CUST00325,Joseph,Brewer,marysalinas@example.net,Enterprise,Finance,UK,Event,2025-12-21,True
+CUST00326,Donna,Patterson,harrisjohn@example.com,SMB,Healthcare,DE,Organic Search,2025-03-29,True
+CUST00327,Derek,Craig,laneandrea@example.com,Consumer,Education,DE,Event,2025-09-14,True
+CUST00328,Frank,Miller,awilliams@example.net,Consumer,Manufacturing,US,Organic Search,2025-12-11,True
+CUST00329,Denise,Lawrence,rmcguire@example.com,Mid-Market,Healthcare,NL,Organic Search,2025-04-06,True
+CUST00330,Shannon,Clark,jhudson@example.org,Mid-Market,Finance,UK,Organic Search,2025-06-29,True
+CUST00331,Jeffrey,Black,phernandez@example.com,Consumer,Technology,UK,Event,2025-10-16,False
+CUST00332,Holly,Randall,rthompson@example.org,Enterprise,Education,FR,Webinar,2025-05-31,True
+CUST00333,Jodi,Murray,robert62@example.com,Consumer,Technology,AU,Paid Search,2023-09-19,True
+CUST00334,Alexander,Fisher,sholland@example.com,Mid-Market,Education,UK,Direct,2023-10-31,False
+CUST00335,Julie,Delacruz,lauradavila@example.org,Enterprise,Manufacturing,US,Email Referral,2026-01-19,False
+CUST00336,Kathleen,Carroll,david42@example.net,Enterprise,Education,NL,Paid Social,2024-03-24,True
+CUST00337,Zoe,Jensen,dblackwell@example.org,Enterprise,Finance,UK,Paid Social,2025-10-06,True
+CUST00338,Victor,Rose,carolyn09@example.net,Enterprise,Manufacturing,AU,Paid Search,2024-04-26,True
+CUST00339,Denise,Weiss,davisrobert@example.net,SMB,Education,DE,Event,2023-07-22,True
+CUST00340,Shawn,Oconnor,taylorjoseph@example.org,Consumer,Education,SE,Webinar,2025-06-27,True
+CUST00341,Austin,Johnson,tbarber@example.com,Mid-Market,Technology,SE,Organic Search,2024-03-22,True
+CUST00342,Lisa,Hopkins,andrea79@example.net,Enterprise,Healthcare,US,Paid Social,2024-08-26,False
+CUST00343,Kimberly,Hickman,hpadilla@example.net,Consumer,Manufacturing,SE,Paid Social,2023-08-03,True
+CUST00344,Shawn,Wright,kimberly49@example.com,Mid-Market,Finance,AU,Event,2024-12-14,True
+CUST00345,Kelly,Frazier,ravenrusso@example.net,SMB,Finance,UK,Event,2025-03-12,True
+CUST00346,Anne,Brown,riverakayla@example.com,Consumer,Education,SE,Email Referral,2026-03-19,True
+CUST00347,Adam,Robinson,bentleyphilip@example.net,Mid-Market,Retail,SE,Paid Social,2024-02-25,False
+CUST00348,Heather,Perkins,handerson@example.net,SMB,Technology,NL,Organic Search,2024-05-30,True
+CUST00349,Craig,Jackson,mariawilliams@example.com,Mid-Market,Manufacturing,CA,Paid Social,2024-07-30,True
+CUST00350,Adam,Walters,cschultz@example.com,SMB,Education,CA,Paid Social,2023-05-06,True
+CUST00351,Christine,Contreras,priscillasherman@example.org,Consumer,Healthcare,SE,Paid Social,2024-02-14,True
+CUST00352,Russell,Mcdonald,pattersonashley@example.com,SMB,Manufacturing,NL,Paid Social,2025-07-24,True
+CUST00353,Kayla,Thompson,joanjames@example.org,Enterprise,Technology,NL,Paid Social,2025-02-03,True
+CUST00354,David,Ramirez,maxwellerin@example.com,Mid-Market,Technology,DE,Event,2025-03-31,True
+CUST00355,Alexander,Murray,michaelwells@example.org,Consumer,Technology,DE,Organic Search,2025-07-16,True
+CUST00356,Keith,Moore,lindsey43@example.net,SMB,Finance,NL,Direct,2025-06-22,True
+CUST00357,Nicholas,Martinez,campbelltanya@example.net,Mid-Market,Education,SE,Paid Social,2023-09-27,True
+CUST00358,Stephanie,Peters,jenkinspatrick@example.com,Enterprise,Manufacturing,DE,Direct,2024-08-31,True
+CUST00359,Gregory,Robinson,raystrickland@example.org,SMB,Education,CA,Paid Search,2024-02-22,False
+CUST00360,Kevin,Daniels,jimmybailey@example.com,Enterprise,Education,DE,Email Referral,2026-03-26,True
+CUST00361,Paige,Gonzalez,dli@example.net,Enterprise,Finance,CA,Webinar,2024-09-27,True
+CUST00362,Alexis,Greene,rodriguezjeffrey@example.net,SMB,Education,SE,Paid Search,2024-11-22,True
+CUST00363,Anna,Jimenez,elizabetharias@example.org,Enterprise,Retail,DE,Webinar,2025-08-23,True
+CUST00364,Kayla,Reynolds,michaelsmith@example.org,Enterprise,Education,AU,Webinar,2025-08-19,True
+CUST00365,Holly,Hansen,billy96@example.net,Enterprise,Manufacturing,CA,Paid Social,2023-07-14,False
+CUST00366,April,Reynolds,michael99@example.net,Mid-Market,Finance,FR,Organic Search,2023-10-26,False
+CUST00367,Deborah,King,eddierobinson@example.net,Mid-Market,Healthcare,SE,Organic Search,2025-03-30,True
+CUST00368,George,Huang,davisrobert@example.org,SMB,Retail,DE,Direct,2025-09-07,False
+CUST00369,Todd,Miller,thomas17@example.com,Enterprise,Finance,NL,Webinar,2024-02-08,True
+CUST00370,Laura,Richardson,bonddanielle@example.com,Consumer,Retail,UK,Paid Search,2024-11-25,False
+CUST00371,Eric,Perkins,flowersnatalie@example.com,Enterprise,Retail,SE,Webinar,2026-03-02,True
+CUST00372,Heidi,Ali,eramirez@example.org,Mid-Market,Manufacturing,DE,Event,2023-12-01,False
+CUST00373,Tara,Miller,christianwatts@example.org,Consumer,Manufacturing,US,Event,2024-05-22,True
+CUST00374,Marie,Sparks,brentrobinson@example.net,Mid-Market,Finance,DE,Paid Search,2025-04-25,True
+CUST00375,Alexander,Brooks,robertgalloway@example.org,Mid-Market,Finance,CA,Event,2024-04-30,True
+CUST00376,John,Barr,sandy54@example.org,Mid-Market,Education,CA,Paid Search,2025-04-11,True
+CUST00377,Ashley,Cooke,jonwatts@example.net,Enterprise,Manufacturing,DE,Direct,2024-04-25,False
+CUST00378,Curtis,Henry,tfields@example.com,Mid-Market,Healthcare,AU,Event,2024-09-18,False
+CUST00379,Jonathan,Carson,scottjames@example.org,Enterprise,Technology,UK,Organic Search,2024-11-03,False
+CUST00380,Kathy,Reyes,tylerjacobs@example.com,SMB,Education,FR,Event,2023-05-23,True
+CUST00381,Sean,Perry,hoopersophia@example.org,Enterprise,Retail,CA,Webinar,2025-02-22,False
+CUST00382,Michelle,Reyes,contrerasallen@example.org,Consumer,Healthcare,NL,Paid Social,2024-04-08,True
+CUST00383,Thomas,Velasquez,ycoleman@example.net,Enterprise,Healthcare,SE,Email Referral,2025-05-15,True
+CUST00384,Jessica,Miller,longjonathan@example.org,Mid-Market,Finance,DE,Paid Social,2025-09-27,False
+CUST00385,Amber,Hall,pamelahenderson@example.org,SMB,Education,AU,Email Referral,2025-09-30,True
+CUST00386,Melissa,Moore,gonzaleskatrina@example.net,SMB,Manufacturing,UK,Paid Social,2025-08-03,True
+CUST00387,Wesley,Smith,imorgan@example.org,Enterprise,Finance,SE,Paid Search,2024-03-15,True
+CUST00388,Devin,Bass,hbarnes@example.org,Enterprise,Finance,NL,Event,2024-03-11,True
+CUST00389,Andrew,Hoover,wrightfrank@example.com,Mid-Market,Healthcare,AU,Direct,2023-11-15,True
+CUST00390,Carolyn,Boyd,jjohnson@example.org,Mid-Market,Healthcare,SE,Direct,2026-03-15,True
+CUST00391,Tammy,Williamson,ecarpenter@example.com,SMB,Retail,US,Organic Search,2023-07-11,False
+CUST00392,Evan,Williams,muellerbrett@example.net,Consumer,Healthcare,FR,Direct,2023-05-14,True
+CUST00393,Charlotte,Holland,hmyers@example.net,Enterprise,Finance,SE,Direct,2025-04-25,False
+CUST00394,Andrew,Arnold,conwaycourtney@example.net,Consumer,Finance,US,Event,2026-03-15,True
+CUST00395,Kelly,Salinas,qmanning@example.org,Mid-Market,Finance,AU,Event,2026-02-13,True
+CUST00396,Earl,Brown,wcarter@example.com,Enterprise,Retail,US,Direct,2025-03-12,True
+CUST00397,Stephen,Herrera,zcole@example.org,SMB,Manufacturing,CA,Organic Search,2024-10-08,True
+CUST00398,Amber,Elliott,michaelgriffin@example.org,Consumer,Manufacturing,CA,Event,2023-09-14,False
+CUST00399,David,Sanders,brianlopez@example.net,Enterprise,Healthcare,UK,Email Referral,2023-06-22,True
+CUST00400,Laura,Gibson,brownelizabeth@example.net,SMB,Manufacturing,AU,Event,2024-07-28,True
+CUST00401,Kara,Gibbs,sthornton@example.org,Consumer,Manufacturing,US,Organic Search,2023-05-25,True
+CUST00402,Joseph,Flynn,andrewallen@example.org,SMB,Retail,SE,Paid Search,2023-06-14,True
+CUST00403,Ronnie,Valencia,ysmith@example.org,Mid-Market,Finance,AU,Paid Search,2024-05-09,True
+CUST00404,Kimberly,Wheeler,martinryan@example.com,SMB,Manufacturing,AU,Direct,2025-06-29,False
+CUST00405,Emily,Gillespie,thomas92@example.org,Consumer,Education,CA,Email Referral,2023-08-24,False
+CUST00406,Paul,Horton,kathryn99@example.org,SMB,Finance,UK,Email Referral,2024-09-11,True
+CUST00407,Rebecca,Miller,harrischarles@example.org,Enterprise,Manufacturing,SE,Paid Social,2026-01-10,False
+CUST00408,Charles,Mcbride,rodriguezkristen@example.com,Mid-Market,Education,US,Direct,2025-06-19,True
+CUST00409,Michael,White,sergio88@example.com,Consumer,Healthcare,FR,Organic Search,2025-06-08,True
+CUST00410,Jordan,Mitchell,shawnsherman@example.org,Enterprise,Healthcare,US,Email Referral,2025-05-15,True
+CUST00411,Misty,Thompson,patrickalvarez@example.com,Mid-Market,Retail,FR,Email Referral,2023-05-26,True
+CUST00412,Renee,Sanchez,tfranklin@example.com,Consumer,Education,US,Webinar,2026-04-17,True
+CUST00413,Michael,Ward,jjordan@example.com,Mid-Market,Manufacturing,AU,Webinar,2023-09-13,True
+CUST00414,Robert,Chapman,eric34@example.net,Consumer,Finance,DE,Email Referral,2025-03-07,False
+CUST00415,Cassidy,Hill,amanda26@example.org,SMB,Manufacturing,AU,Webinar,2025-10-09,True
+CUST00416,Keith,Lawson,pamelabarber@example.com,SMB,Manufacturing,SE,Paid Search,2026-03-11,False
+CUST00417,Samantha,Swanson,kevingreen@example.net,SMB,Manufacturing,CA,Paid Search,2024-09-18,False
+CUST00418,Patricia,Pham,stevewalker@example.com,SMB,Finance,FR,Webinar,2025-12-11,True
+CUST00419,Edwin,Ellis,theresa14@example.com,SMB,Retail,AU,Direct,2025-03-02,False
+CUST00420,Hannah,Munoz,francojohn@example.com,SMB,Finance,UK,Direct,2024-05-01,True
+CUST00421,Shane,Boyle,marywood@example.org,Consumer,Retail,AU,Event,2026-03-10,False
+CUST00422,Daniel,Kane,rebecca25@example.com,SMB,Technology,CA,Webinar,2025-04-02,True
+CUST00423,Christopher,Oconnor,ryan47@example.com,Consumer,Education,CA,Webinar,2023-11-17,True
+CUST00424,Daniel,Price,kevin02@example.com,Mid-Market,Manufacturing,CA,Direct,2023-07-10,True
+CUST00425,Benjamin,Richards,austinrivers@example.net,Mid-Market,Technology,FR,Paid Search,2023-07-14,True
+CUST00426,Renee,Cooper,lcarter@example.com,Mid-Market,Education,FR,Organic Search,2025-05-27,True
+CUST00427,Maria,Stone,valerie93@example.org,SMB,Education,SE,Organic Search,2024-11-14,True
+CUST00428,Hunter,Owens,xcollins@example.org,Mid-Market,Technology,DE,Email Referral,2024-05-04,True
+CUST00429,Jessica,Peterson,bobbydavis@example.com,Consumer,Retail,FR,Event,2026-02-11,False
+CUST00430,Connor,Ward,amygreen@example.com,SMB,Finance,US,Event,2026-03-19,True
+CUST00431,Erica,Nixon,cynthiazimmerman@example.com,Mid-Market,Manufacturing,US,Paid Search,2026-01-14,True
+CUST00432,Dennis,Miller,raymond70@example.com,Mid-Market,Technology,NL,Event,2025-05-04,True
+CUST00433,Taylor,Montgomery,brightchristopher@example.org,SMB,Technology,US,Paid Social,2024-06-23,True
+CUST00434,Jennifer,Park,pamela94@example.com,Enterprise,Finance,CA,Email Referral,2024-07-18,False
+CUST00435,Kevin,Patterson,tannergarner@example.org,Consumer,Healthcare,SE,Paid Social,2024-06-11,True
+CUST00436,Alexandra,Johnson,evelyn86@example.net,Enterprise,Finance,DE,Webinar,2025-12-26,True
+CUST00437,Mariah,Brown,waltersaustin@example.net,SMB,Education,DE,Organic Search,2023-07-19,True
+CUST00438,Sheri,Peterson,aliciaprince@example.org,SMB,Manufacturing,FR,Paid Search,2023-10-25,True
+CUST00439,Matthew,Gates,ycarpenter@example.com,Consumer,Retail,AU,Organic Search,2024-06-13,True
+CUST00440,Daniel,Robinson,hardingmary@example.net,Enterprise,Healthcare,DE,Email Referral,2025-06-06,True
+CUST00441,Angelica,Harris,dustin92@example.org,Mid-Market,Technology,CA,Email Referral,2023-11-21,True
+CUST00442,Donna,King,hfitzpatrick@example.net,SMB,Finance,CA,Direct,2023-12-11,True
+CUST00443,Victoria,Griffith,fishercharles@example.net,Enterprise,Finance,AU,Webinar,2026-01-19,True
+CUST00444,Briana,Johnson,merrittkimberly@example.com,Enterprise,Retail,CA,Paid Search,2026-02-25,True
+CUST00445,Whitney,Rodriguez,travis64@example.org,SMB,Education,UK,Webinar,2023-11-22,False
+CUST00446,Alexander,Powell,baileysteven@example.com,SMB,Finance,FR,Paid Search,2026-04-14,False
+CUST00447,Brianna,Jones,thomasnunez@example.net,Consumer,Healthcare,SE,Webinar,2025-09-21,False
+CUST00448,Rachel,Robinson,sberger@example.org,SMB,Retail,SE,Event,2024-09-22,True
+CUST00449,Frederick,Mckinney,josephhernandez@example.net,Mid-Market,Healthcare,UK,Direct,2024-10-25,True
+CUST00450,Jeffrey,Gilbert,michaelbarron@example.com,SMB,Technology,UK,Organic Search,2025-12-24,False
+CUST00451,Sheri,King,whernandez@example.org,Mid-Market,Manufacturing,DE,Paid Search,2023-10-17,True
+CUST00452,Brandi,Carey,qmorales@example.com,Consumer,Technology,FR,Webinar,2025-01-24,True
+CUST00453,William,Baker,robertellison@example.org,Enterprise,Manufacturing,SE,Event,2024-01-18,True
+CUST00454,Katherine,Wallace,andrewho@example.com,Mid-Market,Manufacturing,NL,Email Referral,2024-10-03,True
+CUST00455,Jessica,Powell,zmartin@example.net,Consumer,Education,CA,Webinar,2024-09-16,True
+CUST00456,Joshua,Garrison,douglasyoung@example.org,SMB,Technology,FR,Direct,2025-08-24,True
+CUST00457,Julie,Edwards,emily91@example.org,Consumer,Finance,UK,Direct,2025-12-21,False
+CUST00458,Sarah,Chan,brookedavis@example.org,Enterprise,Retail,US,Paid Social,2024-01-30,True
+CUST00459,Terri,Johnston,jacquelineelliott@example.org,Mid-Market,Education,NL,Paid Social,2023-06-20,False
+CUST00460,Nicole,Singh,combswilliam@example.com,Consumer,Retail,NL,Email Referral,2024-10-11,True
+CUST00461,Danielle,Mitchell,kholloway@example.org,Mid-Market,Education,AU,Organic Search,2024-08-02,True
+CUST00462,Victoria,Jordan,cmitchell@example.com,Consumer,Manufacturing,DE,Webinar,2024-04-09,False
+CUST00463,Matthew,Morales,marshallsteven@example.net,Enterprise,Technology,CA,Email Referral,2025-10-15,True
+CUST00464,Laura,Osborne,sharpbrian@example.net,Consumer,Manufacturing,NL,Event,2026-04-06,True
+CUST00465,Madison,White,jtaylor@example.net,Consumer,Finance,DE,Paid Social,2024-12-06,True
+CUST00466,April,Charles,vickie41@example.net,Enterprise,Technology,NL,Direct,2025-09-10,True
+CUST00467,Stephanie,Freeman,crosbyjohn@example.net,Enterprise,Healthcare,FR,Organic Search,2025-10-22,True
+CUST00468,Gina,Brown,taylorespinoza@example.org,Enterprise,Retail,US,Paid Search,2025-04-11,True
+CUST00469,Sarah,Martinez,wrightjesus@example.com,Consumer,Retail,FR,Direct,2024-01-15,True
+CUST00470,James,Morrow,jason34@example.com,Enterprise,Healthcare,CA,Paid Search,2025-08-17,False
+CUST00471,Shawn,James,harrisonpatricia@example.com,SMB,Manufacturing,AU,Paid Search,2024-05-27,True
+CUST00472,Eric,Parker,jimmy31@example.com,Mid-Market,Education,FR,Email Referral,2025-08-24,True
+CUST00473,Stanley,Silva,joshua35@example.net,Enterprise,Manufacturing,DE,Webinar,2025-07-13,True
+CUST00474,Kimberly,Arnold,danielle47@example.com,Consumer,Technology,AU,Webinar,2026-02-04,True
+CUST00475,Arthur,Guerrero,robinsonaustin@example.net,SMB,Education,NL,Email Referral,2024-08-18,True
+CUST00476,Joshua,Cook,amysalinas@example.net,Consumer,Healthcare,SE,Paid Search,2025-02-11,False
+CUST00477,Brian,Gilbert,lambhannah@example.com,SMB,Education,DE,Event,2024-03-16,True
+CUST00478,Michele,Pitts,gina72@example.com,Enterprise,Manufacturing,NL,Email Referral,2025-10-05,True
+CUST00479,Bonnie,Beasley,dhardy@example.com,Mid-Market,Retail,FR,Paid Social,2024-09-07,True
+CUST00480,Dakota,Pierce,jean44@example.com,Enterprise,Retail,AU,Organic Search,2025-11-28,True
+CUST00481,Michael,Ware,cjohnson@example.com,Mid-Market,Technology,CA,Email Referral,2025-02-04,True
+CUST00482,Michael,Marsh,kwilliams@example.net,Enterprise,Technology,FR,Event,2024-01-31,True
+CUST00483,Richard,Burns,kellyclark@example.com,Mid-Market,Retail,FR,Event,2025-04-21,False
+CUST00484,Jonathan,Hicks,sean44@example.org,SMB,Technology,FR,Paid Search,2025-10-25,False
+CUST00485,Allen,Frey,nhudson@example.org,Enterprise,Education,SE,Paid Search,2026-03-12,True
+CUST00486,Jillian,Conrad,vcobb@example.com,Mid-Market,Retail,FR,Direct,2023-08-25,True
+CUST00487,Danielle,Rodriguez,michael42@example.com,SMB,Retail,SE,Direct,2025-01-29,True
+CUST00488,William,Ryan,murraykimberly@example.com,SMB,Finance,AU,Direct,2025-02-22,False
+CUST00489,William,Smith,zvargas@example.net,Consumer,Technology,SE,Event,2024-06-13,False
+CUST00490,Anthony,Cook,watkinsamy@example.org,Mid-Market,Finance,AU,Email Referral,2026-02-12,True
+CUST00491,Derek,Hendrix,dustin52@example.com,Mid-Market,Education,DE,Organic Search,2025-09-22,True
+CUST00492,Felicia,Bennett,freemanthomas@example.net,Consumer,Finance,DE,Paid Search,2025-05-17,True
+CUST00493,Christopher,Taylor,mgreen@example.org,Consumer,Manufacturing,FR,Email Referral,2025-11-09,True
+CUST00494,Sherry,Taylor,yweaver@example.com,SMB,Finance,SE,Webinar,2023-06-12,True
+CUST00495,David,Cannon,qliu@example.com,Consumer,Retail,DE,Webinar,2023-11-09,True
+CUST00496,Richard,Price,deborahwinters@example.net,Mid-Market,Healthcare,SE,Paid Search,2023-06-08,False
+CUST00497,Martha,Lewis,brownchristopher@example.net,Enterprise,Manufacturing,US,Event,2025-05-03,False
+CUST00498,Jacob,Byrd,williamcummings@example.net,Enterprise,Technology,NL,Paid Search,2023-11-15,False
+CUST00499,Samantha,Hopkins,tkelley@example.com,Mid-Market,Technology,DE,Organic Search,2024-05-28,True
+CUST00500,Samantha,Guzman,adamsjonathan@example.org,Consumer,Finance,US,Direct,2024-11-02,True
+CUST00501,Jill,Smith,erikthompson@example.org,Consumer,Education,SE,Organic Search,2026-03-30,True
+CUST00502,Leslie,Boyd,steven43@example.org,Consumer,Technology,US,Direct,2025-08-20,True
+CUST00503,Adam,Howard,todd46@example.com,SMB,Technology,NL,Event,2024-02-08,False
+CUST00504,Lisa,Richard,bhoover@example.com,Mid-Market,Technology,UK,Direct,2024-05-03,True
+CUST00505,William,Hernandez,bblack@example.com,Mid-Market,Manufacturing,CA,Event,2025-11-13,True
+CUST00506,Douglas,Lynch,mcdonaldallison@example.org,Consumer,Technology,AU,Email Referral,2024-12-22,True
+CUST00507,Darlene,Hansen,joshua73@example.net,Mid-Market,Education,FR,Paid Social,2025-01-02,True
+CUST00508,Christopher,Phelps,carl98@example.org,Enterprise,Education,US,Organic Search,2023-08-09,True
+CUST00509,Robert,French,nbender@example.net,Consumer,Manufacturing,SE,Organic Search,2023-06-22,True
+CUST00510,Richard,Stewart,troyanderson@example.org,Mid-Market,Technology,SE,Event,2023-09-20,True
+CUST00511,Brandon,Wright,rebeccabell@example.com,SMB,Manufacturing,UK,Direct,2023-06-23,False
+CUST00512,Andrew,Kelley,imaxwell@example.org,Mid-Market,Healthcare,SE,Paid Social,2025-07-26,True
+CUST00513,Stefanie,Knight,walkerdebbie@example.net,Enterprise,Education,CA,Direct,2024-05-15,True
+CUST00514,Joshua,Mcconnell,sarah26@example.net,Enterprise,Healthcare,AU,Organic Search,2023-07-21,False
+CUST00515,Zoe,Mata,anthonysmith@example.org,Mid-Market,Education,NL,Organic Search,2024-09-23,True
+CUST00516,Joan,Parsons,jessica81@example.net,Mid-Market,Manufacturing,NL,Webinar,2024-10-13,False
+CUST00517,Vanessa,Smith,czavala@example.net,SMB,Retail,DE,Event,2023-07-26,False
+CUST00518,Elizabeth,Smith,wesleymclean@example.net,Enterprise,Manufacturing,AU,Organic Search,2026-04-03,True
+CUST00519,Angela,Sutton,fostershawn@example.org,Mid-Market,Technology,AU,Direct,2024-10-21,True
+CUST00520,Daniel,Stone,carterdavid@example.org,Consumer,Finance,US,Webinar,2026-02-11,True
+CUST00521,Andrew,Haynes,moralesrichard@example.com,Consumer,Retail,FR,Paid Social,2024-04-17,True
+CUST00522,Daniel,West,devinmoses@example.com,Consumer,Retail,DE,Webinar,2025-11-05,True
+CUST00523,Lindsay,Sanchez,michael16@example.net,Consumer,Technology,CA,Event,2024-11-18,True
+CUST00524,Kevin,Ferguson,tyler38@example.net,Enterprise,Technology,CA,Paid Search,2024-09-19,True
+CUST00525,James,Dean,williamdorsey@example.net,Mid-Market,Education,NL,Paid Social,2025-02-20,True
+CUST00526,Dawn,Ellis,wisedorothy@example.net,Enterprise,Technology,CA,Email Referral,2025-08-25,True
+CUST00527,Eric,Villanueva,pchase@example.org,SMB,Technology,DE,Organic Search,2024-06-28,True
+CUST00528,Rachel,Wise,tmeadows@example.com,Consumer,Manufacturing,NL,Organic Search,2025-01-08,True
+CUST00529,Nicole,Wilson,ccole@example.com,SMB,Manufacturing,UK,Direct,2023-09-13,True
+CUST00530,Mario,Brown,rrobertson@example.org,SMB,Retail,US,Paid Social,2026-01-20,True
+CUST00531,Nicole,Young,daniellemurphy@example.net,Enterprise,Education,FR,Direct,2023-12-07,True
+CUST00532,Lance,Thomas,angela75@example.org,Consumer,Healthcare,DE,Paid Social,2024-01-23,True
+CUST00533,Rebecca,Morales,ethan70@example.org,Consumer,Healthcare,UK,Paid Search,2024-06-14,True
+CUST00534,Adam,Myers,josephmoore@example.net,Consumer,Finance,SE,Event,2024-07-01,True
+CUST00535,Kaitlyn,Taylor,colton89@example.com,SMB,Healthcare,SE,Direct,2023-11-01,True
+CUST00536,Autumn,Wilson,rodriguezluke@example.net,Consumer,Technology,DE,Paid Social,2023-12-12,True
+CUST00537,Anne,Jenkins,jacob25@example.com,Consumer,Finance,NL,Event,2025-02-16,False
+CUST00538,Victor,Mendez,tlam@example.net,Consumer,Finance,NL,Event,2025-11-03,False
+CUST00539,Daniel,Myers,fordjoshua@example.net,Mid-Market,Finance,AU,Direct,2023-07-14,False
+CUST00540,Kyle,Mcgrath,smithanthony@example.org,Mid-Market,Retail,AU,Paid Search,2023-06-09,False
+CUST00541,Lindsey,Blair,davidskinner@example.com,SMB,Finance,SE,Direct,2024-08-04,True
+CUST00542,Stephen,Lambert,johnmccann@example.com,SMB,Retail,CA,Event,2024-04-16,True
+CUST00543,James,Martinez,grahampatrick@example.com,SMB,Technology,FR,Direct,2025-02-16,False
+CUST00544,Catherine,Sullivan,dongreen@example.org,Mid-Market,Education,US,Webinar,2025-02-26,True
+CUST00545,Brandon,Schmitt,timothy65@example.com,Mid-Market,Retail,CA,Event,2023-06-13,True
+CUST00546,Stephanie,Moran,johnsonallison@example.net,Consumer,Education,SE,Paid Search,2023-05-22,True
+CUST00547,Miguel,Richardson,kayla73@example.com,Mid-Market,Finance,DE,Webinar,2023-10-21,True
+CUST00548,Steven,Beard,jenniferfreeman@example.com,Consumer,Technology,SE,Direct,2023-10-31,True
+CUST00549,Eric,Dominguez,loribryan@example.org,Consumer,Manufacturing,NL,Direct,2023-05-30,True
+CUST00550,Joe,Friedman,hawkinsbrandon@example.com,SMB,Education,UK,Organic Search,2023-06-15,True
+CUST00551,Frederick,Fox,melissataylor@example.com,SMB,Healthcare,US,Direct,2023-05-07,False
+CUST00552,Tyrone,Todd,marcferrell@example.com,Consumer,Finance,NL,Organic Search,2023-06-02,True
+CUST00553,Dean,Jones,david94@example.com,SMB,Healthcare,FR,Email Referral,2024-01-11,True
+CUST00554,Amanda,Taylor,ortizkenneth@example.com,Consumer,Education,DE,Paid Social,2025-12-09,False
+CUST00555,Steven,Wright,villanuevajoshua@example.net,Consumer,Technology,CA,Email Referral,2023-11-09,False
+CUST00556,Lindsey,Hanson,willieandrews@example.net,Enterprise,Technology,DE,Paid Social,2024-09-24,True
+CUST00557,Chris,Rosales,ybarton@example.net,Consumer,Healthcare,SE,Paid Social,2024-02-13,True
+CUST00558,Kelly,Medina,sdecker@example.org,Consumer,Education,SE,Paid Social,2024-07-06,True
+CUST00559,Drew,Glass,harold53@example.net,Enterprise,Education,UK,Organic Search,2023-09-19,False
+CUST00560,Jason,Henry,elizabethjones@example.net,Enterprise,Education,DE,Webinar,2024-02-20,True
+CUST00561,Joseph,Wilson,colton51@example.com,Mid-Market,Manufacturing,DE,Paid Social,2023-04-19,True
+CUST00562,Lisa,Henry,richard81@example.org,Consumer,Healthcare,NL,Webinar,2023-10-23,True
+CUST00563,Abigail,Alexander,bradfordzachary@example.net,Consumer,Retail,US,Webinar,2024-02-07,True
+CUST00564,Alex,Spencer,xlane@example.org,Mid-Market,Retail,NL,Email Referral,2025-12-10,True
+CUST00565,Molly,Ward,guerrerodavid@example.com,Mid-Market,Healthcare,CA,Event,2024-12-09,True
+CUST00566,Douglas,Hughes,kellyadams@example.org,Enterprise,Manufacturing,UK,Event,2025-04-20,False
+CUST00567,Brian,Cruz,ywade@example.net,Mid-Market,Finance,AU,Paid Search,2026-03-18,True
+CUST00568,Patrick,Aguilar,nharris@example.net,SMB,Education,SE,Direct,2024-08-24,False
+CUST00569,Kari,Fisher,andersenbrenda@example.net,SMB,Manufacturing,NL,Direct,2025-05-22,True
+CUST00570,Joann,Lewis,eddiesmith@example.net,Enterprise,Finance,AU,Event,2026-03-28,True
+CUST00571,Veronica,Lawson,brichard@example.com,Mid-Market,Education,CA,Direct,2025-06-18,True
+CUST00572,Regina,Vazquez,morganeric@example.org,Mid-Market,Finance,UK,Paid Search,2026-02-21,True
+CUST00573,Karen,Williams,irussell@example.com,Mid-Market,Finance,DE,Direct,2026-01-10,True
+CUST00574,Rhonda,Williams,kinglindsey@example.net,Mid-Market,Manufacturing,NL,Email Referral,2025-03-07,True
+CUST00575,Daniel,Herrera,laneloretta@example.net,Mid-Market,Manufacturing,DE,Email Referral,2024-02-13,True
+CUST00576,Elizabeth,Fritz,brockkelli@example.org,Mid-Market,Finance,SE,Direct,2024-07-16,True
+CUST00577,Dylan,Thompson,xfreeman@example.net,SMB,Technology,SE,Paid Search,2025-05-26,True
+CUST00578,Taylor,Barnes,craig47@example.net,Consumer,Manufacturing,SE,Email Referral,2023-09-16,True
+CUST00579,Angel,Martinez,johnny04@example.com,Consumer,Education,SE,Email Referral,2024-05-30,True
+CUST00580,Linda,Turner,andrew03@example.com,Enterprise,Healthcare,CA,Organic Search,2026-03-21,True
+CUST00581,Danielle,Hess,luisnorton@example.com,SMB,Healthcare,SE,Direct,2023-07-26,True
+CUST00582,Vanessa,Garza,qdunn@example.org,Consumer,Manufacturing,UK,Direct,2024-07-23,True
+CUST00583,Rebecca,Ramirez,williamsmelissa@example.com,SMB,Manufacturing,US,Event,2023-06-11,True
+CUST00584,Lisa,Clark,sarahrowland@example.net,Mid-Market,Retail,UK,Webinar,2024-11-27,False
+CUST00585,Alicia,Wilson,patricia86@example.net,Mid-Market,Finance,US,Email Referral,2023-08-30,True
+CUST00586,Austin,Singleton,nicolesmith@example.org,Enterprise,Retail,UK,Event,2024-08-18,False
+CUST00587,Allen,Martinez,edwardsmith@example.org,Mid-Market,Education,AU,Event,2024-08-21,True
+CUST00588,Leah,Gonzalez,ahatfield@example.org,Consumer,Healthcare,DE,Event,2023-12-28,True
+CUST00589,Susan,Ho,vestes@example.org,Mid-Market,Technology,AU,Direct,2025-11-17,True
+CUST00590,Melissa,Peterson,campbelljeremy@example.net,Mid-Market,Finance,CA,Paid Social,2023-12-30,True
+CUST00591,Terri,Brown,brownjeffrey@example.com,Enterprise,Healthcare,NL,Organic Search,2026-02-25,False
+CUST00592,Emily,Gonzales,nicholas72@example.com,Mid-Market,Education,DE,Paid Search,2023-11-29,True
+CUST00593,Lisa,Spencer,jillian88@example.net,SMB,Healthcare,NL,Email Referral,2024-12-17,True
+CUST00594,Amy,Douglas,mlam@example.org,SMB,Education,NL,Email Referral,2025-03-24,True
+CUST00595,Stephanie,Sanchez,kathryn25@example.net,Enterprise,Retail,CA,Webinar,2025-01-08,False
+CUST00596,William,Sloan,cle@example.com,SMB,Retail,SE,Paid Social,2024-02-25,True
+CUST00597,Stephanie,Pugh,amandaporter@example.net,Enterprise,Education,SE,Webinar,2023-10-19,True
+CUST00598,Shawn,Gill,ocardenas@example.org,SMB,Technology,NL,Paid Search,2024-09-25,False
+CUST00599,Kenneth,Flores,jessica32@example.org,Mid-Market,Retail,CA,Paid Social,2024-06-07,False
+CUST00600,James,Cooley,heather91@example.org,SMB,Manufacturing,DE,Direct,2023-11-28,False
+CUST00601,Kimberly,Torres,caitlin65@example.net,SMB,Education,US,Organic Search,2025-03-30,True
+CUST00602,Jacqueline,Phillips,stevengarza@example.net,Consumer,Technology,UK,Event,2024-06-01,True
+CUST00603,Rachel,Daniels,johnsonmonica@example.com,Consumer,Technology,NL,Paid Search,2023-08-29,False
+CUST00604,Nicole,Franklin,martintimothy@example.net,Mid-Market,Education,CA,Paid Search,2024-05-03,False
+CUST00605,Dustin,Duncan,christopherjacobs@example.org,SMB,Technology,AU,Paid Social,2024-06-14,True
+CUST00606,Christopher,Bush,omartin@example.com,Mid-Market,Technology,NL,Webinar,2024-08-19,True
+CUST00607,Michelle,Smith,jacksonstephen@example.org,Mid-Market,Retail,UK,Webinar,2023-11-23,True
+CUST00608,Connor,Miller,timothyallen@example.org,Mid-Market,Retail,UK,Paid Search,2025-01-26,True
+CUST00609,Latasha,Mckee,simmonskatherine@example.org,Consumer,Technology,US,Webinar,2024-09-24,True
+CUST00610,Charlene,Carey,alexanderlittle@example.net,Enterprise,Retail,DE,Email Referral,2025-09-05,True
+CUST00611,Frederick,Larson,rosegolden@example.org,Consumer,Technology,UK,Organic Search,2025-02-26,True
+CUST00612,Krista,Munoz,carlos50@example.net,SMB,Healthcare,NL,Event,2024-12-11,False
+CUST00613,Heidi,Young,jonathanperez@example.org,Mid-Market,Education,DE,Organic Search,2024-08-09,True
+CUST00614,Deborah,Romero,miguel02@example.org,Enterprise,Manufacturing,DE,Email Referral,2023-11-05,True
+CUST00615,Philip,Smith,kristensmith@example.net,Mid-Market,Education,DE,Email Referral,2025-01-31,True
+CUST00616,Brandon,Jensen,davidgraham@example.org,Consumer,Healthcare,UK,Organic Search,2025-09-05,True
+CUST00617,Charles,Barker,coreyatkins@example.com,Enterprise,Manufacturing,NL,Paid Social,2025-11-16,False
+CUST00618,Robert,Butler,gcross@example.net,SMB,Healthcare,FR,Paid Social,2024-04-01,True
+CUST00619,Kimberly,Galvan,gellis@example.com,Mid-Market,Manufacturing,CA,Event,2024-02-12,False
+CUST00620,Denise,Taylor,wbriggs@example.net,Enterprise,Education,CA,Paid Search,2024-03-23,True
+CUST00621,Courtney,Hudson,charlesmichael@example.net,Mid-Market,Education,NL,Paid Social,2024-10-13,True
+CUST00622,Christopher,Brown,cmoody@example.org,Mid-Market,Retail,NL,Organic Search,2023-07-22,True
+CUST00623,Heather,Carroll,andersonbrian@example.com,Enterprise,Manufacturing,US,Paid Social,2026-03-30,False
+CUST00624,Tammy,Elliott,taylorbrooks@example.org,Mid-Market,Retail,NL,Paid Social,2025-09-01,True
+CUST00625,Catherine,Williams,robert59@example.com,Mid-Market,Retail,UK,Organic Search,2025-08-10,True
+CUST00626,Robert,Bishop,kimberlybeltran@example.net,Enterprise,Finance,FR,Organic Search,2023-09-16,False
+CUST00627,Pamela,Klein,williamsstephen@example.net,Consumer,Manufacturing,CA,Webinar,2026-02-08,True
+CUST00628,Deborah,Stevenson,garmstrong@example.org,Consumer,Retail,NL,Organic Search,2023-09-22,True
+CUST00629,Holly,Silva,ryankelley@example.org,Mid-Market,Finance,UK,Paid Social,2025-08-24,True
+CUST00630,Cory,Anderson,derrick64@example.org,Mid-Market,Healthcare,AU,Email Referral,2024-02-11,True
+CUST00631,Betty,Stewart,patrickcampbell@example.org,Enterprise,Finance,NL,Webinar,2024-12-01,False
+CUST00632,Joshua,Madden,kreid@example.com,Mid-Market,Technology,FR,Organic Search,2024-12-14,False
+CUST00633,Charles,Martinez,tkennedy@example.org,Enterprise,Retail,US,Paid Social,2024-10-05,True
+CUST00634,Stephen,Huffman,joyvalencia@example.org,Mid-Market,Technology,US,Webinar,2024-02-14,True
+CUST00635,Anna,Rush,xking@example.net,Enterprise,Healthcare,SE,Paid Social,2025-10-11,True
+CUST00636,David,Davis,elizabethgoodwin@example.org,SMB,Healthcare,AU,Paid Search,2023-12-23,True
+CUST00637,Matthew,Davis,gomezashley@example.org,SMB,Education,UK,Event,2025-01-07,False
+CUST00638,Rebecca,Griffin,grahamdavid@example.org,SMB,Retail,CA,Direct,2024-07-11,True
+CUST00639,James,Parker,guzmanleslie@example.net,Enterprise,Retail,SE,Direct,2023-10-07,True
+CUST00640,Walter,Avila,perezjuan@example.com,Consumer,Manufacturing,DE,Paid Social,2026-02-22,True
+CUST00641,Sean,Richards,jacob77@example.org,Enterprise,Manufacturing,UK,Paid Search,2025-04-08,True
+CUST00642,Jennifer,Acevedo,tgardner@example.com,Enterprise,Technology,US,Paid Search,2025-12-01,True
+CUST00643,Joe,Douglas,wrightstephanie@example.com,SMB,Retail,DE,Paid Search,2026-02-14,False
+CUST00644,Tonya,Vazquez,jimmy14@example.org,Enterprise,Manufacturing,NL,Paid Search,2023-12-11,True
+CUST00645,Monica,Smith,ellistara@example.com,Consumer,Education,AU,Paid Social,2025-03-05,False
+CUST00646,Jeremy,Dominguez,kimberlysmith@example.org,SMB,Technology,US,Paid Search,2024-09-29,True
+CUST00647,Stephen,White,jacksonbrittany@example.com,Enterprise,Retail,UK,Email Referral,2025-12-09,False
+CUST00648,Richard,Blankenship,lharrison@example.net,SMB,Finance,UK,Direct,2023-06-11,True
+CUST00649,Rhonda,Vasquez,smithjulie@example.com,SMB,Healthcare,CA,Direct,2024-10-31,True
+CUST00650,Stephen,Powers,jonesregina@example.com,Mid-Market,Retail,AU,Direct,2025-07-12,False
+CUST00651,Edward,Fox,kathrynramirez@example.net,Mid-Market,Education,FR,Paid Search,2026-02-08,True
+CUST00652,Marc,Sullivan,taylorrenee@example.com,Consumer,Technology,FR,Direct,2025-11-18,True
+CUST00653,Connor,Roberts,floressamantha@example.com,Enterprise,Finance,US,Event,2024-08-07,True
+CUST00654,Kara,Campbell,dennis73@example.com,SMB,Technology,FR,Direct,2026-01-27,False
+CUST00655,Julie,Carter,randyrobertson@example.com,Consumer,Retail,US,Paid Search,2023-05-18,True
+CUST00656,Ian,Lee,bonnierodriguez@example.net,Enterprise,Technology,FR,Event,2025-06-08,True
+CUST00657,Matthew,Salas,vjones@example.net,SMB,Retail,UK,Direct,2025-03-17,True
+CUST00658,Michelle,Gillespie,mcconnellariel@example.com,Mid-Market,Education,NL,Organic Search,2023-05-19,True
+CUST00659,William,Kelley,gardnergarrett@example.net,Enterprise,Retail,DE,Paid Search,2024-06-13,True
+CUST00660,Timothy,Jones,gbrown@example.com,SMB,Retail,AU,Paid Social,2025-07-03,True
+CUST00661,Kathryn,Stone,kerrycalderon@example.net,Mid-Market,Technology,FR,Paid Search,2024-12-30,True
+CUST00662,Nancy,Holloway,hcantu@example.com,Enterprise,Healthcare,UK,Paid Search,2023-10-14,True
+CUST00663,Melissa,Martin,nicholas83@example.com,SMB,Retail,UK,Direct,2023-08-08,True
+CUST00664,Brian,Johnson,wdixon@example.com,Mid-Market,Retail,CA,Email Referral,2025-10-08,True
+CUST00665,Scott,Rogers,proctormary@example.com,Enterprise,Technology,DE,Event,2024-03-15,True
+CUST00666,Mario,Miller,jeffrey61@example.net,Enterprise,Healthcare,AU,Paid Search,2025-02-08,True
+CUST00667,Daniel,Edwards,zfisher@example.com,Mid-Market,Finance,NL,Direct,2026-01-24,True
+CUST00668,Benjamin,Smith,loribarnes@example.net,SMB,Finance,DE,Organic Search,2025-01-19,False
+CUST00669,Vanessa,James,brownjacob@example.com,Consumer,Manufacturing,FR,Organic Search,2026-02-21,True
+CUST00670,Todd,Hardin,danielmoore@example.org,Mid-Market,Technology,US,Organic Search,2023-05-09,False
+CUST00671,Maureen,Vasquez,vegaangela@example.net,Mid-Market,Healthcare,FR,Event,2024-10-29,True
+CUST00672,Alexander,Stuart,vstafford@example.net,Enterprise,Manufacturing,CA,Event,2024-05-07,True
+CUST00673,Joshua,Carter,burkevanessa@example.com,Enterprise,Healthcare,SE,Event,2026-04-01,True
+CUST00674,Brenda,Lee,wardwanda@example.net,SMB,Technology,US,Email Referral,2026-01-26,True
+CUST00675,Philip,Davis,esilva@example.net,Consumer,Education,NL,Email Referral,2023-05-26,True
+CUST00676,Phillip,Gutierrez,smithjohn@example.com,Consumer,Healthcare,AU,Paid Search,2026-04-01,False
+CUST00677,Penny,Garner,epeck@example.com,SMB,Finance,SE,Paid Search,2025-09-15,True
+CUST00678,Chris,Lyons,peter46@example.net,Mid-Market,Education,CA,Email Referral,2025-07-22,True
+CUST00679,Bethany,Daniel,calhoundeanna@example.org,Consumer,Technology,UK,Paid Social,2026-01-05,True
+CUST00680,Lisa,Green,riveravictoria@example.net,Consumer,Healthcare,FR,Webinar,2023-05-02,False
+CUST00681,Robert,Palmer,brookesullivan@example.net,Enterprise,Retail,AU,Email Referral,2025-11-24,True
+CUST00682,Raymond,Gamble,jenniferboyd@example.org,Consumer,Finance,AU,Email Referral,2024-07-07,True
+CUST00683,Rebecca,Schmitt,caleb15@example.com,Enterprise,Finance,FR,Organic Search,2024-10-21,False
+CUST00684,Sandra,Hebert,tmorris@example.net,SMB,Technology,SE,Direct,2023-07-30,True
+CUST00685,Mallory,Walker,annavillanueva@example.net,Mid-Market,Healthcare,UK,Paid Search,2024-09-13,True
+CUST00686,Brett,Kim,brandielliott@example.com,SMB,Manufacturing,US,Event,2024-11-02,False
+CUST00687,Mia,Neal,jennifer46@example.com,Mid-Market,Manufacturing,NL,Paid Social,2025-07-14,False
+CUST00688,William,Kim,vcrawford@example.net,Mid-Market,Healthcare,FR,Direct,2024-12-08,True
+CUST00689,Timothy,Smith,ysandoval@example.net,SMB,Manufacturing,US,Webinar,2023-12-03,True
+CUST00690,Richard,Wilson,laurenhamilton@example.com,Mid-Market,Manufacturing,FR,Event,2024-10-29,False
+CUST00691,Kristy,White,smithjoshua@example.net,Consumer,Manufacturing,CA,Paid Search,2025-05-25,True
+CUST00692,Patrick,Bailey,hickskatie@example.org,Enterprise,Technology,FR,Direct,2025-07-26,True
+CUST00693,Michelle,Kennedy,andrewmartinez@example.org,Consumer,Technology,AU,Direct,2024-03-06,True
+CUST00694,Jennifer,Stanton,qsmith@example.org,Mid-Market,Finance,DE,Event,2025-08-06,False
+CUST00695,Christine,Steele,aaron03@example.com,SMB,Technology,US,Paid Search,2023-07-15,True
+CUST00696,Colleen,Swanson,stephanie78@example.net,Mid-Market,Technology,AU,Organic Search,2025-05-26,True
+CUST00697,Jason,Rocha,ylopez@example.net,Consumer,Manufacturing,UK,Paid Social,2025-12-16,True
+CUST00698,Curtis,Preston,mooreamy@example.net,Mid-Market,Healthcare,NL,Event,2026-02-06,True
+CUST00699,Stuart,Sanders,jacksonmisty@example.com,Consumer,Education,AU,Paid Search,2023-12-29,True
+CUST00700,Katherine,Henry,briannaprice@example.com,SMB,Healthcare,DE,Email Referral,2026-03-10,True
+CUST00701,Sophia,Walton,hannah99@example.com,SMB,Healthcare,DE,Webinar,2024-08-27,True
+CUST00702,Elizabeth,Burch,joshua99@example.net,Consumer,Manufacturing,US,Paid Search,2025-05-27,True
+CUST00703,Aaron,Taylor,jenningsstephen@example.org,Mid-Market,Education,UK,Email Referral,2023-06-17,True
+CUST00704,Melissa,Shaffer,melissa77@example.com,Enterprise,Healthcare,AU,Paid Social,2025-06-27,True
+CUST00705,Rodney,Travis,jrichard@example.com,Enterprise,Education,AU,Email Referral,2024-02-19,True
+CUST00706,Christopher,Wilson,melanie22@example.com,Mid-Market,Healthcare,UK,Paid Social,2026-04-02,True
+CUST00707,Sara,Huerta,victor70@example.com,Enterprise,Education,US,Organic Search,2023-12-22,True
+CUST00708,Joyce,Bruce,sarah24@example.com,Consumer,Healthcare,NL,Email Referral,2025-03-09,False
+CUST00709,Jonathan,Berry,adamsjoseph@example.com,SMB,Manufacturing,NL,Organic Search,2024-10-02,False
+CUST00710,Karen,Hayes,raymondstevenson@example.com,Mid-Market,Healthcare,SE,Organic Search,2025-02-26,True
+CUST00711,Christopher,Wheeler,jennygonzalez@example.org,Enterprise,Finance,US,Paid Social,2025-03-22,True
+CUST00712,Bethany,Hall,thomaskayla@example.org,Enterprise,Technology,AU,Paid Search,2025-07-03,False
+CUST00713,Mark,Haynes,michelle78@example.com,Mid-Market,Education,UK,Direct,2025-08-04,False
+CUST00714,Ryan,Aguilar,robertslaurie@example.org,Enterprise,Finance,SE,Webinar,2024-04-24,True
+CUST00715,Matthew,Fox,sara84@example.org,Mid-Market,Manufacturing,NL,Paid Search,2024-09-10,True
+CUST00716,Joel,Spence,mooredonna@example.com,SMB,Healthcare,FR,Email Referral,2025-01-15,True
+CUST00717,Kristine,Lopez,taylorvictoria@example.com,SMB,Education,CA,Paid Social,2024-02-05,True
+CUST00718,Kirk,Wilson,campbellricardo@example.com,Enterprise,Retail,SE,Paid Search,2024-01-23,True
+CUST00719,Amber,Wright,kbuck@example.org,Enterprise,Retail,UK,Paid Social,2024-07-18,False
+CUST00720,Brian,Stevenson,rogersgeorge@example.org,Consumer,Healthcare,UK,Organic Search,2025-07-18,True
+CUST00721,Rachel,Phillips,zsherman@example.org,SMB,Technology,SE,Event,2025-10-07,True
+CUST00722,Russell,Fisher,walter15@example.org,Consumer,Retail,SE,Webinar,2024-06-22,True
+CUST00723,Laura,Smith,eandrews@example.org,Consumer,Healthcare,AU,Email Referral,2023-12-19,True
+CUST00724,Victoria,Gray,petersonlucas@example.org,Consumer,Technology,CA,Email Referral,2023-07-08,True
+CUST00725,Dawn,Vincent,dakotajenkins@example.com,Mid-Market,Finance,US,Paid Search,2025-09-29,True
+CUST00726,Megan,White,watsonjacob@example.org,Enterprise,Technology,AU,Event,2025-01-22,True
+CUST00727,Jose,Watkins,riosjoseph@example.com,Mid-Market,Manufacturing,US,Event,2023-11-19,True
+CUST00728,Elizabeth,Velasquez,dwallace@example.com,Consumer,Manufacturing,SE,Direct,2024-04-08,False
+CUST00729,Melissa,Abbott,jennifermiller@example.com,Consumer,Finance,UK,Email Referral,2025-07-23,False
+CUST00730,Lisa,Gonzalez,alexandra75@example.com,Enterprise,Manufacturing,DE,Organic Search,2026-02-08,False
+CUST00731,Erin,Smith,hgutierrez@example.com,Consumer,Healthcare,DE,Paid Search,2025-05-07,False
+CUST00732,Jacob,Munoz,chambersalyssa@example.net,Mid-Market,Technology,NL,Organic Search,2024-06-08,False
+CUST00733,Jose,Peterson,matthew36@example.com,Consumer,Healthcare,DE,Event,2026-02-15,True
+CUST00734,Cody,Flynn,scastro@example.net,SMB,Education,UK,Organic Search,2023-08-31,True
+CUST00735,Thomas,Sullivan,gary60@example.com,Consumer,Manufacturing,AU,Event,2025-10-12,True
+CUST00736,Angela,Russell,imann@example.net,Consumer,Technology,NL,Organic Search,2023-10-04,True
+CUST00737,Keith,Allen,dcarrillo@example.net,Mid-Market,Manufacturing,UK,Organic Search,2024-07-17,True
+CUST00738,Stephanie,Garza,omiller@example.com,Enterprise,Finance,AU,Email Referral,2023-08-25,True
+CUST00739,Benjamin,Mayo,gregoryjacobs@example.org,Consumer,Manufacturing,SE,Organic Search,2024-09-30,True
+CUST00740,James,Duffy,gtorres@example.org,Consumer,Healthcare,NL,Organic Search,2024-12-08,True
+CUST00741,George,Burgess,fporter@example.com,SMB,Education,FR,Organic Search,2025-06-30,True
+CUST00742,Jeffrey,Bailey,erin71@example.com,SMB,Finance,US,Paid Social,2024-01-24,False
+CUST00743,Ricky,Duncan,underwoodcharles@example.net,SMB,Finance,CA,Event,2024-07-05,True
+CUST00744,Daniel,David,isolomon@example.net,Enterprise,Healthcare,DE,Paid Social,2024-12-03,False
+CUST00745,Ryan,Hammond,jlee@example.net,Consumer,Finance,CA,Webinar,2023-06-03,True
+CUST00746,Zachary,Smith,evelyn00@example.com,Enterprise,Healthcare,SE,Paid Search,2023-12-09,False
+CUST00747,Kevin,Adkins,bowersrichard@example.org,Consumer,Education,SE,Event,2024-09-25,True
+CUST00748,Tamara,Herring,dianeswanson@example.com,SMB,Technology,DE,Organic Search,2025-11-04,True
+CUST00749,Melanie,Ingram,nbailey@example.org,Consumer,Healthcare,US,Paid Search,2025-03-18,True
+CUST00750,Dale,Richardson,jamesmiddleton@example.com,Mid-Market,Technology,FR,Organic Search,2025-05-16,True
+CUST00751,Joshua,Norris,kenneth71@example.com,SMB,Education,FR,Paid Social,2024-09-27,True
+CUST00752,Tony,Hart,hendrickskathleen@example.net,Consumer,Manufacturing,NL,Webinar,2025-04-16,False
+CUST00753,Amy,Castillo,walkerjason@example.net,Enterprise,Healthcare,AU,Email Referral,2024-03-28,True
+CUST00754,Kiara,Crawford,ycollier@example.com,Mid-Market,Retail,AU,Paid Social,2026-03-05,True
+CUST00755,Debra,Figueroa,rachaelwilliams@example.com,SMB,Education,UK,Paid Social,2024-07-08,True
+CUST00756,Michael,Palmer,lparker@example.org,Enterprise,Healthcare,FR,Event,2024-03-25,True
+CUST00757,Diana,Kirk,hesssteven@example.org,Mid-Market,Education,FR,Paid Social,2023-04-30,True
+CUST00758,Jennifer,Parker,morafelicia@example.com,Enterprise,Education,US,Email Referral,2025-05-17,False
+CUST00759,Kevin,Cole,mossthomas@example.com,Mid-Market,Manufacturing,US,Paid Search,2023-05-26,True
+CUST00760,Thomas,Thomas,crystalpearson@example.org,SMB,Education,CA,Email Referral,2024-09-27,False
+CUST00761,Sabrina,Smith,mckeejacob@example.com,SMB,Retail,CA,Paid Search,2025-06-06,True
+CUST00762,Matthew,Jordan,rossdavid@example.net,Consumer,Manufacturing,UK,Organic Search,2026-03-09,True
+CUST00763,Julie,Fisher,morgancampbell@example.net,SMB,Manufacturing,CA,Paid Social,2026-02-21,True
+CUST00764,Garrett,Herrera,jackmitchell@example.org,Consumer,Technology,AU,Paid Social,2026-03-01,True
+CUST00765,Gary,Hood,kelleyamanda@example.com,SMB,Finance,CA,Paid Search,2023-11-02,True
+CUST00766,Benjamin,Walsh,ksampson@example.net,Mid-Market,Technology,NL,Webinar,2024-04-08,True
+CUST00767,Dakota,Wright,shannonblanchard@example.net,Mid-Market,Education,US,Webinar,2023-06-01,True
+CUST00768,Teresa,Gilbert,patriciaperez@example.org,SMB,Finance,NL,Email Referral,2023-06-02,True
+CUST00769,Peter,Reyes,debbiebowman@example.org,Enterprise,Manufacturing,FR,Paid Social,2026-01-22,True
+CUST00770,Dorothy,Espinoza,ashley91@example.net,Mid-Market,Education,SE,Webinar,2024-12-27,True
+CUST00771,Michael,Hicks,jeanne85@example.com,SMB,Healthcare,DE,Paid Social,2023-07-12,True
+CUST00772,Jason,Lopez,mcdonaldlaurie@example.net,Mid-Market,Education,CA,Webinar,2024-08-23,False
+CUST00773,Andrew,Chang,gkennedy@example.net,Mid-Market,Education,AU,Webinar,2024-06-22,True
+CUST00774,Rebecca,Sims,lauren69@example.net,SMB,Healthcare,CA,Email Referral,2024-06-07,True
+CUST00775,Daniel,Powell,harrisjerome@example.net,SMB,Finance,CA,Direct,2025-07-06,True
+CUST00776,Cheryl,Jensen,rwilson@example.net,Enterprise,Retail,US,Event,2026-01-13,True
+CUST00777,Kimberly,Lee,qnelson@example.net,Enterprise,Retail,FR,Direct,2025-11-28,True
+CUST00778,Richard,Hunter,cheryl21@example.org,Consumer,Manufacturing,CA,Email Referral,2026-01-29,True
+CUST00779,Abigail,Lewis,benjaminsmith@example.net,Mid-Market,Healthcare,FR,Paid Social,2023-08-26,True
+CUST00780,George,Lopez,megandavidson@example.net,Consumer,Healthcare,AU,Event,2025-02-17,True
+CUST00781,John,Lozano,lisa82@example.com,Enterprise,Retail,AU,Webinar,2025-03-19,False
+CUST00782,Dustin,Salazar,andersonalexis@example.org,SMB,Education,US,Organic Search,2024-11-11,True
+CUST00783,Brian,Tucker,patriciamerritt@example.com,Mid-Market,Healthcare,DE,Email Referral,2026-02-14,True
+CUST00784,Jennifer,Delacruz,dorothysnow@example.net,Enterprise,Healthcare,NL,Webinar,2025-04-09,True
+CUST00785,Daniel,Munoz,mercedessavage@example.com,Consumer,Retail,NL,Organic Search,2025-04-29,True
+CUST00786,Clarence,Holmes,bartonbrian@example.com,Mid-Market,Education,AU,Organic Search,2024-10-23,False
+CUST00787,Adam,Hall,kharper@example.net,Mid-Market,Technology,US,Webinar,2024-12-10,True
+CUST00788,Jennifer,Willis,morenokelly@example.com,Mid-Market,Education,AU,Paid Social,2025-04-16,True
+CUST00789,Debra,Howe,stephensonmarcus@example.com,Consumer,Manufacturing,CA,Paid Search,2024-04-11,True
+CUST00790,Kimberly,Warren,zdavis@example.com,Enterprise,Finance,CA,Email Referral,2024-06-22,True
+CUST00791,Elizabeth,Watson,davisdavid@example.org,SMB,Retail,DE,Paid Social,2025-11-16,False
+CUST00792,Katherine,Proctor,latoya50@example.net,Consumer,Finance,FR,Paid Search,2023-09-04,False
+CUST00793,Maxwell,Myers,hawkinsrobert@example.com,Consumer,Technology,FR,Paid Search,2025-07-06,True
+CUST00794,Jane,Diaz,alexandraharris@example.org,Mid-Market,Healthcare,US,Direct,2025-10-25,True
+CUST00795,Hailey,Jordan,nicholas93@example.com,Enterprise,Finance,US,Email Referral,2025-06-05,False
+CUST00796,Steven,Cain,rebeccajenkins@example.net,SMB,Manufacturing,US,Direct,2025-08-17,False
+CUST00797,Kristin,Davies,flee@example.org,Enterprise,Education,US,Organic Search,2025-11-13,True
+CUST00798,Dennis,Pace,guzmanjuan@example.net,Consumer,Retail,NL,Organic Search,2025-11-25,True
+CUST00799,Briana,Mitchell,michaelbailey@example.org,Consumer,Education,DE,Paid Search,2023-12-19,True
+CUST00800,Martin,Wall,tiffanysanders@example.net,Enterprise,Finance,NL,Webinar,2024-11-16,True
+CUST00801,Heather,Mccullough,benjamintammy@example.org,SMB,Manufacturing,DE,Email Referral,2023-10-29,False
+CUST00802,Lynn,Landry,elijahhiggins@example.net,Enterprise,Manufacturing,UK,Paid Social,2025-05-22,True
+CUST00803,Tony,Patterson,jay87@example.org,Enterprise,Retail,FR,Direct,2025-12-21,True
+CUST00804,Gary,Lee,hoodjohn@example.org,SMB,Manufacturing,FR,Paid Social,2023-06-20,True
+CUST00805,Alexis,Roman,snydersarah@example.org,SMB,Healthcare,US,Direct,2024-06-30,True
+CUST00806,Ashley,Webb,wpowell@example.com,Mid-Market,Education,SE,Paid Social,2025-09-27,True
+CUST00807,Tiffany,Bernard,mikepruitt@example.org,Enterprise,Education,UK,Organic Search,2026-02-21,False
+CUST00808,Edward,Santana,edwardwilliams@example.com,Consumer,Healthcare,UK,Event,2024-12-18,True
+CUST00809,Richard,Schneider,amandamartinez@example.net,Enterprise,Finance,FR,Email Referral,2026-04-13,False
+CUST00810,Brian,Moore,kylewilliams@example.net,SMB,Finance,SE,Organic Search,2023-07-04,True
+CUST00811,Daniel,Harmon,stephaniehayes@example.net,Mid-Market,Technology,CA,Paid Social,2023-08-29,False
+CUST00812,Holly,Allen,matthewsnathan@example.com,SMB,Retail,UK,Organic Search,2023-09-19,False
+CUST00813,Harry,Myers,jacob78@example.com,Enterprise,Technology,DE,Webinar,2024-01-19,True
+CUST00814,Debbie,Simmons,alexa19@example.net,SMB,Finance,SE,Direct,2025-08-12,True
+CUST00815,Stephanie,Lewis,lunderwood@example.org,Enterprise,Finance,AU,Paid Search,2024-05-12,True
+CUST00816,Paula,Phillips,halltanya@example.net,Consumer,Retail,CA,Event,2023-05-18,True
+CUST00817,Michael,Shepherd,bruce84@example.org,Consumer,Retail,DE,Organic Search,2024-03-11,True
+CUST00818,Diane,Russo,brownricky@example.net,Enterprise,Healthcare,UK,Email Referral,2023-12-17,False
+CUST00819,Timothy,Murphy,nbrown@example.net,Consumer,Manufacturing,SE,Paid Search,2025-12-24,True
+CUST00820,Kimberly,Hebert,penaadrienne@example.com,SMB,Manufacturing,US,Event,2023-07-24,True
+CUST00821,Dawn,Garcia,robertterry@example.net,Mid-Market,Retail,SE,Organic Search,2023-08-22,False
+CUST00822,Michael,Cunningham,gpotts@example.org,Consumer,Technology,UK,Paid Social,2025-09-17,True
+CUST00823,Jesse,George,batesronald@example.org,Enterprise,Education,FR,Webinar,2024-05-11,False
+CUST00824,Megan,Wise,hancockwilliam@example.net,Enterprise,Retail,FR,Email Referral,2024-04-29,True
+CUST00825,William,Pollard,michael75@example.net,Consumer,Healthcare,US,Organic Search,2025-11-17,True
+CUST00826,Michelle,Campbell,gli@example.net,Mid-Market,Manufacturing,SE,Event,2026-02-10,True
+CUST00827,Tiffany,Young,barbara33@example.com,Mid-Market,Technology,SE,Paid Social,2023-07-22,True
+CUST00828,Jessica,Griffith,jillianbaker@example.com,SMB,Technology,FR,Direct,2025-08-29,True
+CUST00829,Kristen,Lopez,gpaul@example.org,Consumer,Healthcare,UK,Email Referral,2023-06-01,True
+CUST00830,Gary,Ward,lucasmary@example.org,Consumer,Technology,SE,Email Referral,2025-11-10,True
+CUST00831,Christopher,Frye,mary00@example.com,Consumer,Education,US,Organic Search,2025-02-01,True
+CUST00832,Patricia,Gonzalez,emilyewing@example.com,Enterprise,Manufacturing,US,Event,2024-04-08,True
+CUST00833,Alejandra,Cooper,reginald33@example.net,SMB,Manufacturing,FR,Webinar,2023-12-24,True
+CUST00834,Aaron,Luna,george68@example.net,SMB,Finance,US,Event,2023-12-01,True
+CUST00835,William,Houston,bblack@example.org,Consumer,Finance,SE,Webinar,2026-04-05,True
+CUST00836,Jonathan,Jenkins,jessehumphrey@example.net,Consumer,Technology,UK,Event,2025-02-06,True
+CUST00837,Mary,Webb,heather40@example.org,Enterprise,Finance,AU,Event,2026-01-25,True
+CUST00838,Ann,White,jessicaboyd@example.com,SMB,Manufacturing,AU,Webinar,2024-02-06,True
+CUST00839,Zachary,Vasquez,steven83@example.com,Mid-Market,Retail,DE,Event,2025-10-15,True
+CUST00840,Gary,Young,mbrooks@example.org,Consumer,Technology,CA,Direct,2023-05-15,True
+CUST00841,Lisa,West,richard55@example.org,Enterprise,Retail,FR,Email Referral,2024-11-04,False
+CUST00842,Amy,Taylor,davidgreen@example.net,Mid-Market,Education,AU,Organic Search,2025-03-27,True
+CUST00843,Bruce,Ortiz,aprilobrien@example.org,Enterprise,Education,UK,Event,2026-02-23,False
+CUST00844,Frederick,Stone,glee@example.com,Consumer,Education,DE,Email Referral,2025-08-31,True
+CUST00845,Roger,Knight,chelseacooper@example.com,Enterprise,Manufacturing,NL,Event,2026-03-04,True
+CUST00846,Mary,Hall,vickie23@example.com,Mid-Market,Education,DE,Webinar,2023-05-28,False
+CUST00847,Emma,Perez,kellibarber@example.com,Enterprise,Retail,AU,Direct,2025-02-15,False
+CUST00848,Rodney,Green,millerbrian@example.net,Consumer,Manufacturing,FR,Paid Social,2026-04-15,True
+CUST00849,Daniel,Terry,coopermichelle@example.net,SMB,Finance,SE,Event,2025-12-24,True
+CUST00850,John,Cook,victoria21@example.com,Consumer,Manufacturing,CA,Event,2023-06-20,True
+CUST00851,David,Stephenson,amandabrown@example.com,SMB,Education,FR,Paid Search,2026-04-02,True
+CUST00852,Stephanie,Thompson,joshualee@example.net,SMB,Education,AU,Webinar,2023-07-16,True
+CUST00853,Alan,Fernandez,terryjoseph@example.com,Mid-Market,Manufacturing,AU,Webinar,2024-02-27,True
+CUST00854,Anthony,Ramirez,rachel86@example.net,SMB,Manufacturing,SE,Direct,2024-11-19,True
+CUST00855,Michael,Ponce,marymartin@example.net,Consumer,Education,CA,Event,2023-11-27,True
+CUST00856,Kevin,Webster,andrewgomez@example.com,Enterprise,Manufacturing,UK,Organic Search,2023-06-06,True
+CUST00857,Juan,Mitchell,tchen@example.net,Enterprise,Education,US,Paid Search,2024-06-15,True
+CUST00858,Danielle,Edwards,smithjames@example.org,Mid-Market,Finance,CA,Paid Search,2024-10-01,False
+CUST00859,John,Matthews,medwards@example.com,SMB,Healthcare,US,Paid Social,2025-12-16,False
+CUST00860,Kristen,Kidd,maysvincent@example.com,Enterprise,Manufacturing,FR,Webinar,2023-11-25,True
+CUST00861,Brandon,Leon,laura29@example.org,Consumer,Healthcare,CA,Webinar,2026-01-24,True
+CUST00862,Benjamin,Alvarez,perkinscharles@example.net,Consumer,Retail,NL,Event,2025-09-29,False
+CUST00863,Sarah,Rosales,oellis@example.net,SMB,Manufacturing,US,Organic Search,2025-11-15,True
+CUST00864,Amy,Dean,harrisondebra@example.com,Mid-Market,Manufacturing,SE,Event,2024-07-21,True
+CUST00865,Annette,Jimenez,velliott@example.net,SMB,Manufacturing,FR,Event,2024-06-21,True
+CUST00866,Alyssa,Stokes,cheryl28@example.com,Mid-Market,Finance,SE,Paid Search,2025-03-04,False
+CUST00867,Stanley,Johnson,jameshartman@example.net,Enterprise,Healthcare,DE,Webinar,2025-02-05,True
+CUST00868,James,Mora,tonytorres@example.net,Consumer,Technology,NL,Paid Social,2025-09-24,True
+CUST00869,Larry,Miller,jasonsoto@example.com,Mid-Market,Healthcare,CA,Organic Search,2023-10-16,True
+CUST00870,Jonathan,Clark,eallen@example.net,Mid-Market,Technology,DE,Paid Social,2026-03-30,True
+CUST00871,Joseph,Johnson,alyssalynch@example.com,SMB,Retail,AU,Organic Search,2025-04-01,True
+CUST00872,Heidi,Jones,garyburke@example.org,SMB,Manufacturing,FR,Paid Search,2025-05-14,True
+CUST00873,Mary,Bryan,dale62@example.com,Mid-Market,Retail,NL,Organic Search,2025-02-10,True
+CUST00874,Eric,Villanueva,amorris@example.net,Mid-Market,Education,AU,Paid Social,2024-03-03,True
+CUST00875,Frank,Marquez,crystalfarmer@example.net,Mid-Market,Manufacturing,SE,Direct,2026-04-06,False
+CUST00876,Melissa,Jones,joel37@example.net,Enterprise,Technology,AU,Email Referral,2023-07-09,True
+CUST00877,Marvin,Barrett,kylegonzales@example.net,Mid-Market,Technology,AU,Email Referral,2025-12-06,False
+CUST00878,Katie,Armstrong,kelsey11@example.net,Enterprise,Retail,CA,Direct,2025-12-12,True
+CUST00879,Vanessa,Glenn,hollowaysierra@example.org,Enterprise,Manufacturing,AU,Direct,2024-10-05,False
+CUST00880,Gloria,Anderson,isabellamendez@example.com,Consumer,Retail,US,Paid Social,2024-10-04,False
+CUST00881,Crystal,Porter,denisebrandt@example.org,Mid-Market,Finance,UK,Organic Search,2023-05-16,True
+CUST00882,Eric,Lloyd,sandra64@example.net,Enterprise,Education,UK,Paid Search,2024-01-16,True
+CUST00883,Heather,Moore,williammiller@example.org,Mid-Market,Education,NL,Event,2023-08-02,True
+CUST00884,Courtney,Gibbs,jensenjacob@example.net,Consumer,Education,UK,Webinar,2024-06-28,True
+CUST00885,Jesse,Lyons,fkane@example.org,Enterprise,Retail,AU,Organic Search,2025-12-03,True
+CUST00886,Steven,Adkins,tvillarreal@example.com,Enterprise,Healthcare,CA,Direct,2024-04-01,True
+CUST00887,Scott,Mcdowell,lawrence05@example.com,Mid-Market,Finance,NL,Email Referral,2025-08-18,True
+CUST00888,Sandra,Jones,gomezmatthew@example.com,Consumer,Retail,AU,Organic Search,2023-11-09,True
+CUST00889,Tiffany,Patel,cowanjennifer@example.net,Enterprise,Manufacturing,US,Webinar,2023-09-25,True
+CUST00890,Tracy,Meyer,ruizandrea@example.net,Enterprise,Education,US,Webinar,2025-01-11,False
+CUST00891,Megan,Martin,kenneth05@example.org,SMB,Manufacturing,UK,Paid Social,2023-04-29,True
+CUST00892,Matthew,Tucker,rojastara@example.com,SMB,Manufacturing,UK,Paid Social,2025-02-04,True
+CUST00893,Kathryn,Brown,gabriel38@example.org,Consumer,Retail,NL,Event,2024-04-11,True
+CUST00894,Travis,Mcclain,jmora@example.net,Consumer,Healthcare,FR,Paid Search,2025-03-25,True
+CUST00895,Joshua,Alexander,ataylor@example.net,SMB,Education,DE,Paid Social,2024-06-17,True
+CUST00896,Stephanie,Kim,joseph62@example.com,SMB,Technology,DE,Organic Search,2025-10-16,True
+CUST00897,Joel,Gould,martinezdana@example.com,Consumer,Manufacturing,UK,Paid Social,2023-06-23,True
+CUST00898,Madeline,Torres,mwood@example.org,SMB,Healthcare,NL,Webinar,2023-11-26,False
+CUST00899,Joseph,Lambert,grahamcolin@example.org,Mid-Market,Healthcare,DE,Paid Search,2024-12-28,True
+CUST00900,Roberto,Brooks,gsantos@example.net,SMB,Healthcare,UK,Paid Search,2024-08-09,True
+CUST00901,Erik,Li,marcoschmidt@example.org,Enterprise,Manufacturing,SE,Webinar,2023-10-16,True
+CUST00902,Robert,Myers,raymondamber@example.net,SMB,Education,UK,Paid Social,2026-01-23,True
+CUST00903,Daniel,Bishop,edwinpalmer@example.com,Consumer,Finance,AU,Paid Search,2025-01-31,True
+CUST00904,Eric,Schneider,cynthia79@example.net,Mid-Market,Technology,CA,Direct,2024-03-20,True
+CUST00905,Ryan,Davis,nwinters@example.org,Mid-Market,Finance,SE,Email Referral,2025-09-30,True
+CUST00906,Patricia,Garcia,walterrobinson@example.com,SMB,Education,DE,Direct,2023-10-08,True
+CUST00907,Joseph,Allen,jeffreyunderwood@example.net,SMB,Retail,DE,Organic Search,2023-11-26,True
+CUST00908,Aaron,Nixon,joel39@example.com,Mid-Market,Education,NL,Paid Social,2023-11-14,False
+CUST00909,Zachary,Hardin,guzmanlauren@example.net,Mid-Market,Education,AU,Email Referral,2024-08-14,True
+CUST00910,Cole,Roberts,tracy45@example.com,SMB,Finance,SE,Direct,2025-02-14,True
+CUST00911,Angela,Duarte,louisfrey@example.org,Enterprise,Finance,DE,Direct,2023-06-29,True
+CUST00912,Jesse,West,vcain@example.com,Enterprise,Education,UK,Organic Search,2024-02-29,False
+CUST00913,Regina,Rosario,maxwell11@example.org,Enterprise,Manufacturing,NL,Event,2025-10-23,True
+CUST00914,Jose,Rivas,andrew96@example.net,Enterprise,Manufacturing,CA,Direct,2024-12-11,False
+CUST00915,James,Powers,isherman@example.com,Consumer,Education,DE,Paid Social,2024-11-16,True
+CUST00916,Melissa,Gray,jessica01@example.net,SMB,Healthcare,SE,Direct,2024-07-01,True
+CUST00917,Angela,Hunt,simmonsconnor@example.net,Consumer,Finance,US,Webinar,2024-12-25,True
+CUST00918,Julia,Snow,wschultz@example.net,Mid-Market,Manufacturing,DE,Email Referral,2023-09-05,True
+CUST00919,Jonathan,Miles,avilajane@example.org,Mid-Market,Education,SE,Paid Social,2025-09-27,True
+CUST00920,Jonathon,Williams,russellfranklin@example.org,Consumer,Healthcare,UK,Paid Social,2024-10-03,True
+CUST00921,David,Collins,tbowen@example.org,Enterprise,Education,FR,Direct,2023-10-13,False
+CUST00922,Jennifer,Young,brownmatthew@example.net,SMB,Retail,SE,Email Referral,2024-10-10,False
+CUST00923,Gina,Phillips,lisalittle@example.org,Enterprise,Education,AU,Organic Search,2026-03-05,True
+CUST00924,Stacy,Russell,anna81@example.org,SMB,Education,CA,Direct,2024-12-22,True
+CUST00925,Christina,Chambers,birdstephen@example.org,Mid-Market,Retail,NL,Paid Social,2025-11-23,True
+CUST00926,Derrick,Rivera,michael51@example.org,Enterprise,Manufacturing,CA,Email Referral,2023-11-27,False
+CUST00927,Bryan,Baldwin,adamsclifford@example.org,Mid-Market,Manufacturing,NL,Paid Social,2024-03-01,False
+CUST00928,Nicholas,David,malonejeffrey@example.com,SMB,Retail,SE,Direct,2025-08-24,True
+CUST00929,Margaret,Smith,josephdavis@example.com,Mid-Market,Retail,DE,Paid Search,2023-11-02,True
+CUST00930,Jennifer,Mitchell,griffinryan@example.net,SMB,Healthcare,DE,Paid Search,2026-04-09,True
+CUST00931,Nathaniel,Johnson,colebrian@example.org,Enterprise,Education,FR,Email Referral,2024-01-30,False
+CUST00932,Kevin,Sanchez,lbanks@example.org,Enterprise,Retail,SE,Email Referral,2025-05-14,True
+CUST00933,Brandon,Weaver,zjenkins@example.com,Mid-Market,Education,NL,Organic Search,2024-06-13,True
+CUST00934,Jeremy,Smith,stevenssamuel@example.org,Mid-Market,Manufacturing,DE,Paid Search,2025-02-20,True
+CUST00935,Michelle,Elliott,richard55@example.com,Enterprise,Manufacturing,DE,Organic Search,2024-08-14,True
+CUST00936,John,Murray,laura39@example.net,Mid-Market,Manufacturing,NL,Direct,2024-01-04,False
+CUST00937,Kristen,Hudson,davidrussell@example.com,Enterprise,Education,CA,Organic Search,2025-06-28,True
+CUST00938,Daniel,Holt,brockdeanna@example.org,Consumer,Retail,DE,Paid Search,2024-10-12,False
+CUST00939,Kyle,Davis,osmith@example.net,Mid-Market,Manufacturing,DE,Direct,2023-06-26,True
+CUST00940,Joshua,Cole,adriana52@example.com,SMB,Healthcare,AU,Email Referral,2024-07-31,True
+CUST00941,Samuel,King,tiffany35@example.net,Enterprise,Healthcare,NL,Email Referral,2023-08-25,True
+CUST00942,John,Daniels,patricia34@example.com,Enterprise,Healthcare,NL,Event,2024-11-16,True
+CUST00943,Angela,Martinez,jonescheryl@example.com,Enterprise,Healthcare,SE,Direct,2024-01-18,True
+CUST00944,Samantha,Meza,wadeconnie@example.com,Enterprise,Technology,SE,Webinar,2025-03-14,True
+CUST00945,Claudia,Davis,wesley77@example.org,Enterprise,Education,NL,Direct,2026-03-25,True
+CUST00946,Sandra,Flores,peter05@example.net,Enterprise,Education,NL,Paid Search,2024-12-07,False
+CUST00947,Michael,Cobb,loconnor@example.net,Consumer,Retail,AU,Direct,2025-09-23,False
+CUST00948,Tony,Wright,robinsondevin@example.net,Enterprise,Retail,DE,Paid Social,2024-06-23,True
+CUST00949,Michael,Reese,walkermichelle@example.net,Mid-Market,Technology,CA,Direct,2025-10-19,False
+CUST00950,Haley,Wilson,wmorrow@example.com,Consumer,Finance,FR,Organic Search,2025-01-23,True
+CUST00951,Robert,Johnson,pwalters@example.org,Enterprise,Manufacturing,UK,Direct,2025-01-29,True
+CUST00952,Charles,Fox,kristyosborne@example.org,Mid-Market,Education,AU,Email Referral,2025-02-11,True
+CUST00953,Christian,Ward,severett@example.net,Mid-Market,Retail,CA,Paid Social,2023-07-11,False
+CUST00954,Melissa,Wilson,ryangill@example.net,Consumer,Manufacturing,AU,Direct,2023-07-14,True
+CUST00955,Stephen,Terry,kimberly93@example.org,Consumer,Healthcare,NL,Direct,2025-11-15,True
+CUST00956,Marissa,Lawson,david37@example.net,Consumer,Healthcare,AU,Direct,2025-04-26,True
+CUST00957,Hannah,Shea,kfoster@example.net,SMB,Finance,AU,Event,2023-07-07,True
+CUST00958,Melissa,Wright,davidmorris@example.org,Mid-Market,Education,UK,Webinar,2025-10-01,True
+CUST00959,Roger,Keller,donaldmorrow@example.org,Mid-Market,Technology,FR,Direct,2025-01-01,True
+CUST00960,Latoya,Olson,princemark@example.org,SMB,Manufacturing,US,Paid Search,2024-12-10,True
+CUST00961,Lori,Davis,kevinwilliams@example.org,Enterprise,Technology,DE,Email Referral,2024-11-17,False
+CUST00962,Joseph,Fowler,pachecomichelle@example.com,Consumer,Technology,UK,Paid Social,2023-12-01,True
+CUST00963,Deborah,Walker,frank80@example.org,Enterprise,Manufacturing,US,Webinar,2023-09-07,True
+CUST00964,Kyle,Santiago,martin10@example.org,Consumer,Manufacturing,CA,Webinar,2024-12-08,False
+CUST00965,Chelsea,Hernandez,sarahdyer@example.net,Enterprise,Healthcare,SE,Email Referral,2024-05-24,True
+CUST00966,Dustin,Pugh,jesus08@example.net,SMB,Healthcare,US,Event,2023-08-02,True
+CUST00967,Rachel,Levine,manuel57@example.org,Mid-Market,Manufacturing,DE,Webinar,2024-10-02,True
+CUST00968,Jasmine,Adams,ivega@example.com,Mid-Market,Education,US,Paid Search,2025-10-31,True
+CUST00969,William,Buchanan,scott13@example.com,SMB,Retail,AU,Webinar,2023-10-29,True
+CUST00970,Jeffrey,Johnson,barroncynthia@example.com,Mid-Market,Manufacturing,US,Webinar,2024-07-07,True
+CUST00971,Roger,Mckay,ifoley@example.org,Enterprise,Manufacturing,CA,Webinar,2025-08-13,False
+CUST00972,Kathryn,Castro,tarathomas@example.com,SMB,Finance,CA,Paid Search,2024-01-07,True
+CUST00973,Crystal,Bell,andrew80@example.org,Mid-Market,Retail,NL,Direct,2023-10-02,True
+CUST00974,Allison,Taylor,deanday@example.org,Mid-Market,Retail,UK,Direct,2025-10-23,True
+CUST00975,Heather,Rice,lcole@example.com,SMB,Finance,UK,Event,2023-07-26,True
+CUST00976,Robert,Santiago,paula55@example.com,SMB,Manufacturing,CA,Webinar,2026-02-09,True
+CUST00977,Justin,Andrews,jeremybarron@example.com,Consumer,Manufacturing,SE,Event,2024-12-05,True
+CUST00978,Thomas,Johnson,luiscasey@example.com,SMB,Retail,SE,Direct,2023-09-02,False
+CUST00979,Tammy,Figueroa,jeffreyjohnson@example.net,Consumer,Technology,CA,Organic Search,2026-01-15,True
+CUST00980,Cynthia,Rowe,anne39@example.com,Mid-Market,Education,FR,Event,2023-05-01,True
+CUST00981,Robert,Turner,barry68@example.com,SMB,Manufacturing,US,Webinar,2023-10-07,False
+CUST00982,Kelly,Gibbs,zdougherty@example.net,Mid-Market,Finance,UK,Email Referral,2023-07-26,True
+CUST00983,Eugene,Small,matthewcollins@example.net,SMB,Technology,DE,Email Referral,2024-09-11,True
+CUST00984,Andrew,Jones,millerstephanie@example.net,Mid-Market,Manufacturing,CA,Paid Search,2023-09-25,False
+CUST00985,Adrian,Velez,charles53@example.org,Mid-Market,Retail,FR,Paid Search,2023-12-21,True
+CUST00986,Lori,Robinson,kelsey07@example.org,SMB,Healthcare,FR,Paid Search,2023-12-15,False
+CUST00987,Olivia,Thompson,lwilliamson@example.com,SMB,Healthcare,UK,Organic Search,2024-07-04,False
+CUST00988,Linda,Jensen,wcruz@example.org,Consumer,Manufacturing,US,Event,2024-10-02,False
+CUST00989,Lisa,Wiggins,copelandthomas@example.net,Enterprise,Retail,AU,Direct,2025-02-11,True
+CUST00990,Jason,Crawford,ramirezvictoria@example.net,SMB,Retail,DE,Event,2024-02-18,False
+CUST00991,Karen,Stone,yjimenez@example.org,SMB,Retail,FR,Event,2025-08-15,True
+CUST00992,Alison,Carroll,jreed@example.org,Enterprise,Manufacturing,NL,Email Referral,2023-10-03,False
+CUST00993,Benjamin,Santiago,beckalexandra@example.com,Enterprise,Manufacturing,AU,Email Referral,2025-03-29,False
+CUST00994,Kayla,Reed,christopher22@example.com,Mid-Market,Retail,UK,Webinar,2025-03-05,True
+CUST00995,James,Johnson,carljones@example.org,SMB,Education,US,Organic Search,2026-03-05,True
+CUST00996,Debra,Walker,richardmunoz@example.net,Consumer,Manufacturing,UK,Paid Social,2024-01-02,True
+CUST00997,Brett,Burns,davidshelton@example.org,SMB,Healthcare,CA,Paid Search,2024-08-06,True
+CUST00998,Cassie,Johnson,wyatt46@example.net,SMB,Finance,DE,Email Referral,2024-01-12,True
+CUST00999,Steven,Bolton,thomasnathan@example.net,Consumer,Education,AU,Paid Social,2026-03-28,False
+CUST01000,Marco,Archer,dawnguzman@example.org,SMB,Retail,DE,Direct,2023-05-08,True
+CUST01001,Frances,Daniel,derrickkim@example.net,Mid-Market,Technology,CA,Event,2026-02-03,True
+CUST01002,Darrell,Le,johnsongloria@example.net,Consumer,Retail,FR,Paid Search,2026-02-01,False
+CUST01003,David,Hines,vroberts@example.com,Mid-Market,Retail,US,Paid Search,2023-12-15,True
+CUST01004,Stephanie,Campbell,juan90@example.org,Mid-Market,Education,AU,Event,2024-12-12,True
+CUST01005,Jennifer,Collins,dennishenderson@example.com,SMB,Manufacturing,US,Email Referral,2025-09-01,True
+CUST01006,Tammy,Summers,jodi05@example.org,Mid-Market,Technology,FR,Event,2023-08-03,True
+CUST01007,Mark,Ramirez,courtneysmith@example.org,Enterprise,Retail,AU,Paid Social,2025-03-14,True
+CUST01008,Bryan,Phelps,kayla51@example.net,SMB,Finance,US,Email Referral,2023-05-05,True
+CUST01009,Michael,Robbins,amberball@example.net,Mid-Market,Manufacturing,DE,Event,2023-06-29,True
+CUST01010,Edward,Frazier,hmay@example.net,SMB,Education,SE,Event,2023-12-07,True
+CUST01011,Aaron,Jenkins,fordsarah@example.com,Enterprise,Retail,CA,Email Referral,2024-01-31,True
+CUST01012,Sarah,Watkins,cynthia19@example.com,Mid-Market,Healthcare,AU,Email Referral,2023-05-12,True
+CUST01013,Emily,Goodwin,thomas99@example.com,Consumer,Technology,UK,Paid Search,2026-01-30,True
+CUST01014,Jared,Carroll,lucasjessica@example.org,SMB,Finance,CA,Webinar,2025-04-08,True
+CUST01015,Stephen,Smith,denisewright@example.com,Consumer,Finance,SE,Event,2023-12-20,False
+CUST01016,Krystal,Ward,frederick74@example.com,SMB,Education,SE,Email Referral,2026-01-31,True
+CUST01017,Austin,Parker,adamspaul@example.net,Enterprise,Healthcare,FR,Webinar,2023-08-09,True
+CUST01018,Bobby,Shaw,osmith@example.com,Enterprise,Healthcare,DE,Email Referral,2026-03-06,True
+CUST01019,Cheryl,Hart,johngaines@example.com,Enterprise,Retail,US,Organic Search,2026-02-14,True
+CUST01020,Matthew,Morgan,martinezmegan@example.net,Enterprise,Technology,CA,Direct,2023-05-13,True
+CUST01021,Joseph,Cline,julia88@example.net,Consumer,Finance,FR,Paid Search,2025-05-24,True
+CUST01022,Kimberly,Torres,shannonsmith@example.com,Consumer,Education,DE,Paid Search,2026-03-31,True
+CUST01023,Gary,Perez,grantjohn@example.com,Mid-Market,Technology,US,Webinar,2023-05-21,True
+CUST01024,Kimberly,Boyd,clarkemily@example.com,SMB,Retail,SE,Event,2023-06-29,True
+CUST01025,James,Calderon,jaimesanchez@example.org,SMB,Manufacturing,SE,Paid Search,2023-07-29,False
+CUST01026,John,Wallace,williamking@example.net,Mid-Market,Manufacturing,SE,Webinar,2024-11-14,True
+CUST01027,Kimberly,Murray,xbrown@example.org,Consumer,Manufacturing,CA,Paid Social,2024-04-16,True
+CUST01028,Mark,Kirk,wfloyd@example.com,Mid-Market,Technology,SE,Paid Social,2026-03-13,True
+CUST01029,Sarah,Esparza,dhill@example.org,SMB,Healthcare,CA,Organic Search,2024-06-12,True
+CUST01030,Ashley,Hatfield,burkeisaac@example.org,Mid-Market,Finance,CA,Email Referral,2026-03-08,True
+CUST01031,Dale,Rivera,james70@example.net,Consumer,Retail,CA,Organic Search,2026-03-18,True
+CUST01032,Hannah,Ortiz,brandon36@example.org,SMB,Manufacturing,FR,Event,2025-10-20,True
+CUST01033,Charles,Flores,imartin@example.com,SMB,Healthcare,NL,Direct,2023-12-18,True
+CUST01034,Lisa,Acosta,crystal74@example.com,Mid-Market,Healthcare,NL,Event,2025-03-19,True
+CUST01035,Marissa,Vincent,camerondouglas@example.com,SMB,Technology,NL,Webinar,2024-03-06,True
+CUST01036,Dennis,Miller,alex54@example.net,SMB,Finance,CA,Email Referral,2024-07-27,True
+CUST01037,Kelly,Arnold,aprilwoods@example.com,Enterprise,Healthcare,DE,Paid Social,2025-01-25,True
+CUST01038,Alejandra,Johnson,wellsjeffrey@example.net,Consumer,Manufacturing,SE,Paid Social,2026-03-03,True
+CUST01039,Brittany,Mason,lawrencelisa@example.net,Consumer,Healthcare,AU,Organic Search,2025-04-04,True
+CUST01040,Edwin,Ramsey,carlos47@example.org,Enterprise,Healthcare,UK,Paid Social,2024-11-13,True
+CUST01041,Kimberly,Pearson,rebecca97@example.com,Consumer,Education,US,Paid Search,2023-12-26,True
+CUST01042,Christopher,Richards,amandalyons@example.com,Enterprise,Retail,FR,Paid Social,2023-10-21,True
+CUST01043,Mallory,Mcguire,michaelthompson@example.com,Consumer,Finance,SE,Webinar,2023-04-26,True
+CUST01044,Charles,Gonzalez,jimmy21@example.com,SMB,Technology,DE,Organic Search,2025-11-22,True
+CUST01045,Juan,Lawson,pamelamckenzie@example.org,Consumer,Technology,SE,Paid Search,2023-07-26,True
+CUST01046,Cathy,Prince,christine26@example.com,SMB,Retail,US,Organic Search,2026-03-21,False
+CUST01047,Amy,Randall,dalton40@example.com,Mid-Market,Retail,SE,Paid Search,2025-04-18,True
+CUST01048,Matthew,Sanchez,jason87@example.net,Enterprise,Healthcare,SE,Webinar,2024-05-26,True
+CUST01049,Matthew,Lee,douglas31@example.com,Mid-Market,Retail,NL,Webinar,2025-07-14,False
+CUST01050,Rebecca,Ross,zmoore@example.com,SMB,Healthcare,US,Webinar,2024-08-26,False
+CUST01051,John,Collins,wchan@example.net,Enterprise,Finance,SE,Webinar,2023-06-17,True
+CUST01052,Gregory,Flores,jason30@example.com,SMB,Technology,FR,Organic Search,2024-02-21,True
+CUST01053,Damon,Horne,sarahsanchez@example.net,Consumer,Finance,US,Paid Search,2024-02-07,True
+CUST01054,Sarah,Weeks,kyle21@example.net,Enterprise,Retail,FR,Organic Search,2024-03-31,False
+CUST01055,Joanne,Morales,mcmahonmarie@example.net,Consumer,Education,DE,Paid Social,2025-03-18,True
+CUST01056,Jason,Lambert,ellenstephenson@example.com,Mid-Market,Healthcare,SE,Organic Search,2026-02-01,True
+CUST01057,Rachel,Kidd,jaclynsanchez@example.com,SMB,Education,US,Organic Search,2023-06-22,True
+CUST01058,Christopher,Cobb,rbruce@example.net,Mid-Market,Education,UK,Paid Search,2023-10-21,True
+CUST01059,Rebecca,Flores,forbeskevin@example.net,SMB,Manufacturing,AU,Event,2023-12-08,False
+CUST01060,Troy,Hawkins,michaelnguyen@example.net,Mid-Market,Technology,NL,Paid Social,2023-05-06,True
+CUST01061,Daniel,Clayton,sara37@example.net,SMB,Technology,SE,Webinar,2025-12-04,True
+CUST01062,Tim,Simmons,ronald29@example.com,SMB,Manufacturing,SE,Paid Search,2023-06-19,True
+CUST01063,Christopher,Potter,sarajackson@example.org,SMB,Finance,SE,Paid Social,2025-06-30,False
+CUST01064,Terri,Santana,deborahjones@example.org,Mid-Market,Technology,DE,Email Referral,2025-10-24,True
+CUST01065,Nicholas,Todd,matthewthompson@example.org,SMB,Manufacturing,AU,Email Referral,2025-07-16,True
+CUST01066,Sharon,Smith,qmorris@example.org,Consumer,Education,DE,Organic Search,2024-03-23,True
+CUST01067,Jeffery,Landry,joelbautista@example.org,SMB,Manufacturing,FR,Paid Social,2023-06-12,True
+CUST01068,Lance,Harvey,amandahess@example.com,Consumer,Healthcare,SE,Event,2025-07-17,True
+CUST01069,David,Padilla,matthew02@example.com,SMB,Finance,NL,Webinar,2023-09-07,True
+CUST01070,Katrina,Hernandez,lknapp@example.org,Enterprise,Manufacturing,UK,Organic Search,2025-11-22,False
+CUST01071,Eric,Smith,qvalenzuela@example.com,Mid-Market,Healthcare,US,Paid Search,2025-07-08,True
+CUST01072,Brittany,Young,tyrone97@example.com,Mid-Market,Technology,US,Direct,2024-03-07,True
+CUST01073,Gabrielle,Powers,aaronsimmons@example.org,Consumer,Education,SE,Direct,2025-10-14,True
+CUST01074,Tiffany,Hoffman,obolton@example.net,SMB,Technology,AU,Paid Search,2025-10-04,True
+CUST01075,Julie,Thompson,wongdaniel@example.org,Enterprise,Technology,FR,Webinar,2025-01-21,True
+CUST01076,Matthew,Graham,johntapia@example.com,Enterprise,Retail,US,Paid Social,2024-03-31,True
+CUST01077,Bailey,Velez,shawjames@example.net,Consumer,Finance,US,Event,2023-08-24,True
+CUST01078,Christopher,Reeves,ybrowning@example.org,Enterprise,Education,UK,Event,2024-11-05,True
+CUST01079,James,Miller,jason84@example.org,Mid-Market,Manufacturing,UK,Organic Search,2025-04-21,True
+CUST01080,Mark,West,stephen04@example.com,Consumer,Healthcare,FR,Direct,2025-07-18,True
+CUST01081,Aaron,Barnes,kthompson@example.net,Mid-Market,Manufacturing,NL,Webinar,2024-04-18,True
+CUST01082,Amanda,Stephenson,rjohnson@example.com,SMB,Education,SE,Webinar,2023-11-25,True
+CUST01083,Dawn,Hunter,mjones@example.com,Enterprise,Healthcare,DE,Direct,2024-08-11,True
+CUST01084,Donna,Bell,catherine77@example.org,SMB,Education,DE,Direct,2026-01-04,False
+CUST01085,James,Nicholson,nathan71@example.com,Consumer,Finance,AU,Direct,2023-09-18,False
+CUST01086,Antonio,Valenzuela,michaelspence@example.org,SMB,Finance,NL,Event,2023-07-06,True
+CUST01087,Laura,Diaz,benjamin46@example.com,SMB,Manufacturing,FR,Direct,2025-10-31,True
+CUST01088,Tammy,Mcclure,michael29@example.net,Consumer,Manufacturing,CA,Paid Social,2025-03-28,False
+CUST01089,Deborah,Holt,robertsdaniel@example.com,Consumer,Retail,US,Webinar,2023-12-29,True
+CUST01090,Michael,Stokes,coryanthony@example.com,SMB,Manufacturing,US,Direct,2025-03-28,True
+CUST01091,James,Evans,hollywilliams@example.com,SMB,Technology,CA,Paid Search,2026-03-16,True
+CUST01092,Lori,Howard,ortizteresa@example.com,SMB,Technology,CA,Direct,2025-11-20,True
+CUST01093,Tami,Cannon,kfisher@example.com,Mid-Market,Technology,US,Email Referral,2024-05-29,True
+CUST01094,Eric,Finley,whitetiffany@example.net,Mid-Market,Finance,AU,Direct,2025-06-17,True
+CUST01095,David,Patterson,annettecole@example.com,SMB,Finance,UK,Direct,2025-01-07,True
+CUST01096,James,King,fernandezkimberly@example.com,Mid-Market,Education,UK,Webinar,2025-10-22,True
+CUST01097,Sharon,Schroeder,oalvarado@example.org,Consumer,Healthcare,SE,Event,2024-01-06,False
+CUST01098,Dennis,Hale,vbarry@example.org,Enterprise,Manufacturing,CA,Organic Search,2023-06-06,True
+CUST01099,Brianna,Garrett,ryanlarson@example.org,Consumer,Technology,US,Event,2025-05-09,True
+CUST01100,Doris,Johnson,gwilson@example.com,Consumer,Retail,UK,Event,2023-06-02,True
+CUST01101,Daniel,Smith,swansongeorge@example.org,Enterprise,Education,NL,Organic Search,2025-04-28,True
+CUST01102,Alexandra,Rose,ylewis@example.com,Enterprise,Finance,DE,Paid Social,2024-07-13,True
+CUST01103,Hannah,Johnston,bradytiffany@example.com,Mid-Market,Healthcare,US,Webinar,2023-08-29,True
+CUST01104,Denise,Murphy,knguyen@example.org,Consumer,Retail,UK,Paid Search,2024-03-24,True
+CUST01105,Geoffrey,Pugh,mooreroy@example.net,Consumer,Healthcare,DE,Paid Social,2023-06-06,True
+CUST01106,Kimberly,Liu,dennisglenn@example.net,Enterprise,Manufacturing,NL,Paid Social,2025-02-26,True
+CUST01107,Todd,Quinn,vbaker@example.com,Consumer,Education,DE,Event,2025-11-29,True
+CUST01108,Susan,Garcia,lindsey00@example.com,Mid-Market,Retail,NL,Webinar,2024-12-19,True
+CUST01109,Maria,Bell,kelly42@example.com,Mid-Market,Healthcare,UK,Paid Social,2025-01-19,True
+CUST01110,Justin,Wright,davidholder@example.com,SMB,Education,UK,Organic Search,2023-07-27,True
+CUST01111,Ruth,Smith,hooperchristopher@example.org,Consumer,Finance,AU,Paid Search,2024-07-15,True
+CUST01112,Renee,Collins,dhodges@example.net,Enterprise,Finance,DE,Paid Social,2024-10-07,True
+CUST01113,Rebecca,Taylor,jennifer26@example.org,Consumer,Manufacturing,DE,Email Referral,2023-08-21,True
+CUST01114,Laura,Hudson,heatherchavez@example.com,Mid-Market,Healthcare,AU,Paid Search,2024-03-15,True
+CUST01115,Brent,Smith,gonzalezashley@example.com,Enterprise,Technology,US,Paid Search,2025-06-11,False
+CUST01116,Shelly,Barry,qgonzalez@example.org,Mid-Market,Finance,US,Paid Social,2024-01-24,True
+CUST01117,Jimmy,Rivera,caseronald@example.org,Enterprise,Finance,SE,Email Referral,2024-08-22,True
+CUST01118,Michael,Schneider,salazarthomas@example.com,Mid-Market,Education,FR,Paid Search,2026-03-07,True
+CUST01119,Amy,Vincent,bfernandez@example.com,SMB,Manufacturing,SE,Direct,2026-02-14,True
+CUST01120,Sarah,Martinez,castrojoseph@example.org,Mid-Market,Education,US,Email Referral,2025-01-12,True
+CUST01121,Linda,Calderon,srivera@example.net,Enterprise,Finance,DE,Organic Search,2024-09-22,True
+CUST01122,Karen,Moore,gsingh@example.org,SMB,Technology,SE,Webinar,2025-05-14,False
+CUST01123,Emily,Dean,aguilarnicholas@example.net,Enterprise,Retail,CA,Webinar,2024-10-05,False
+CUST01124,George,Harvey,rogersdonna@example.org,SMB,Technology,US,Paid Social,2024-05-31,False
+CUST01125,Rachel,Davis,james70@example.net,Consumer,Healthcare,NL,Direct,2023-12-15,False
+CUST01126,Felicia,Barr,hallrenee@example.org,Enterprise,Finance,SE,Event,2024-04-29,True
+CUST01127,Allison,Peck,carrie70@example.net,Enterprise,Healthcare,FR,Direct,2024-06-10,False
+CUST01128,Kendra,Hicks,rachelbowman@example.net,Enterprise,Technology,FR,Direct,2026-01-24,True
+CUST01129,Carolyn,Jones,bennettnathan@example.net,Consumer,Retail,DE,Organic Search,2025-10-31,True
+CUST01130,Nichole,Howard,david51@example.com,SMB,Finance,CA,Paid Search,2025-06-14,False
+CUST01131,Sandra,Collins,morrisonnathan@example.net,SMB,Technology,CA,Email Referral,2023-09-06,False
+CUST01132,Johnathan,Porter,brandonburns@example.com,Enterprise,Manufacturing,CA,Paid Search,2025-03-18,True
+CUST01133,Stephanie,Christensen,zlong@example.net,Consumer,Education,DE,Organic Search,2023-12-31,True
+CUST01134,Steven,Combs,karina45@example.com,Mid-Market,Retail,FR,Direct,2023-05-23,True
+CUST01135,Richard,Schultz,dbush@example.net,SMB,Manufacturing,AU,Email Referral,2024-06-06,True
+CUST01136,Lynn,Burns,hbyrd@example.net,Mid-Market,Education,DE,Direct,2025-03-13,True
+CUST01137,Judy,Smith,brownmark@example.org,Mid-Market,Healthcare,CA,Webinar,2025-10-03,True
+CUST01138,Paul,Armstrong,parkermichelle@example.com,Mid-Market,Retail,DE,Webinar,2023-08-14,False
+CUST01139,Michelle,Mcbride,heidi78@example.org,Mid-Market,Finance,UK,Direct,2024-04-10,True
+CUST01140,Edwin,Johnson,ythomas@example.net,Enterprise,Healthcare,AU,Event,2025-11-28,False
+CUST01141,David,Stout,irobinson@example.com,Enterprise,Finance,NL,Email Referral,2023-10-21,True
+CUST01142,Carol,Vasquez,kmiller@example.org,SMB,Healthcare,FR,Organic Search,2024-01-07,True
+CUST01143,Elizabeth,Carter,barnesmarie@example.net,Enterprise,Manufacturing,CA,Direct,2024-10-05,True
+CUST01144,David,Mitchell,zmann@example.com,Mid-Market,Manufacturing,FR,Paid Search,2023-05-17,True
+CUST01145,Trevor,Bowen,debbie80@example.org,SMB,Technology,SE,Paid Search,2025-06-22,True
+CUST01146,Sharon,Johnson,umartin@example.net,Consumer,Education,AU,Paid Search,2023-07-06,False
+CUST01147,Robert,Carter,rthomas@example.org,Consumer,Retail,DE,Paid Search,2026-04-03,True
+CUST01148,Matthew,Smith,brandon43@example.org,Enterprise,Retail,US,Paid Social,2024-07-14,False
+CUST01149,Todd,Grant,paulvang@example.org,Mid-Market,Education,FR,Event,2024-03-10,True
+CUST01150,Sara,Fry,william08@example.org,Mid-Market,Retail,SE,Webinar,2024-12-03,True
+CUST01151,Angela,Gray,wrobinson@example.net,Consumer,Healthcare,NL,Email Referral,2026-03-14,True
+CUST01152,James,Guzman,cunninghamjuan@example.net,Consumer,Education,AU,Email Referral,2024-04-29,True
+CUST01153,Adam,Mays,martineznathaniel@example.com,Enterprise,Manufacturing,UK,Email Referral,2024-09-13,True
+CUST01154,Derek,Smith,georgemayo@example.net,Enterprise,Healthcare,NL,Webinar,2024-12-24,True
+CUST01155,Brenda,Cooper,dmoss@example.org,Consumer,Manufacturing,US,Paid Search,2024-09-29,True
+CUST01156,Sarah,Jones,tbrowning@example.com,Consumer,Finance,CA,Email Referral,2024-09-06,True
+CUST01157,Joseph,Green,lisamacdonald@example.net,SMB,Manufacturing,US,Webinar,2024-05-29,True
+CUST01158,Leslie,Skinner,charles29@example.org,Mid-Market,Retail,SE,Organic Search,2023-06-09,True
+CUST01159,Krista,Schmidt,heatherjohnson@example.org,Enterprise,Healthcare,DE,Email Referral,2025-05-15,True
+CUST01160,Laura,Dennis,andrewcummings@example.com,Consumer,Technology,DE,Email Referral,2023-06-27,True
+CUST01161,Jeffrey,Lawson,clucas@example.net,Mid-Market,Retail,UK,Paid Social,2025-12-29,True
+CUST01162,Tanya,Elliott,stacy66@example.com,Mid-Market,Education,UK,Organic Search,2024-01-27,True
+CUST01163,Ashley,Whitaker,shelia87@example.org,Consumer,Education,AU,Organic Search,2025-02-20,True
+CUST01164,Kaitlin,Christian,butlerandrew@example.org,Consumer,Education,DE,Email Referral,2023-07-23,True
+CUST01165,Emily,Rush,ann91@example.org,Enterprise,Healthcare,AU,Direct,2024-04-22,False
+CUST01166,Tony,Trevino,carterjose@example.org,Mid-Market,Healthcare,DE,Paid Search,2024-10-07,True
+CUST01167,Ashley,Graham,samuelsanchez@example.com,Enterprise,Retail,CA,Paid Social,2023-08-18,True
+CUST01168,Jamie,Garcia,vmatthews@example.com,Consumer,Finance,DE,Organic Search,2026-02-08,False
+CUST01169,Chad,Stone,angelalittle@example.com,Mid-Market,Technology,CA,Organic Search,2025-03-14,True
+CUST01170,Kimberly,Brown,russell77@example.com,Consumer,Manufacturing,US,Direct,2025-08-27,False
+CUST01171,Mark,Saunders,josesmith@example.com,Mid-Market,Healthcare,SE,Email Referral,2025-04-19,True
+CUST01172,Jose,Estrada,wfleming@example.net,Enterprise,Manufacturing,US,Paid Search,2026-04-03,False
+CUST01173,Ryan,Hoffman,sara48@example.org,SMB,Manufacturing,FR,Organic Search,2024-01-06,True
+CUST01174,Michele,Anderson,yphillips@example.com,Enterprise,Education,AU,Organic Search,2024-12-20,True
+CUST01175,Victoria,Cooper,sean83@example.com,Enterprise,Education,CA,Paid Social,2024-02-04,False
+CUST01176,John,Tran,robert75@example.net,Enterprise,Technology,NL,Paid Search,2024-08-29,True
+CUST01177,Karen,Morgan,paula63@example.net,SMB,Manufacturing,DE,Email Referral,2024-09-21,True
+CUST01178,Michelle,Wright,pdavis@example.org,SMB,Technology,UK,Event,2024-03-12,True
+CUST01179,Elizabeth,Johnson,eric11@example.org,SMB,Retail,UK,Event,2023-08-11,True
+CUST01180,Melanie,Rodriguez,aprildavila@example.com,Enterprise,Finance,SE,Paid Search,2025-04-12,True
+CUST01181,Rebecca,Phillips,wilsontroy@example.org,SMB,Finance,NL,Direct,2025-10-24,True
+CUST01182,Steven,Wade,ylewis@example.com,Mid-Market,Manufacturing,US,Organic Search,2023-06-15,True
+CUST01183,Michael,Hernandez,boydthomas@example.com,Enterprise,Retail,CA,Email Referral,2024-06-27,True
+CUST01184,Brian,Hernandez,iestes@example.org,SMB,Finance,AU,Paid Search,2025-08-20,True
+CUST01185,Andrew,Trevino,maykelly@example.com,Consumer,Manufacturing,SE,Email Referral,2025-05-15,False
+CUST01186,Evan,Ortiz,samanthapalmer@example.com,Mid-Market,Education,CA,Paid Search,2025-07-08,True
+CUST01187,Robert,Murray,cynthia14@example.net,Enterprise,Retail,UK,Webinar,2024-12-24,False
+CUST01188,Katherine,Bernard,rebecca93@example.org,Consumer,Retail,US,Paid Social,2025-06-27,True
+CUST01189,Michael,Kim,traviswilson@example.com,Mid-Market,Technology,FR,Webinar,2026-02-20,True
+CUST01190,Cindy,Martinez,megan66@example.org,Enterprise,Finance,CA,Direct,2024-03-02,True
+CUST01191,Matthew,Gregory,flemingmichael@example.com,Enterprise,Technology,AU,Paid Social,2023-07-18,True
+CUST01192,Nicole,Silva,hodgesbrian@example.com,Enterprise,Healthcare,FR,Paid Social,2025-04-30,False
+CUST01193,Christopher,Mendoza,ycaldwell@example.org,Consumer,Retail,US,Webinar,2024-10-12,True
+CUST01194,Amanda,Morales,jamiewalton@example.net,Mid-Market,Education,SE,Event,2026-03-03,True
+CUST01195,Kristina,Wright,waynelee@example.com,SMB,Retail,NL,Webinar,2024-12-07,True
+CUST01196,Matthew,Becker,jason94@example.org,SMB,Manufacturing,AU,Direct,2025-07-28,True
+CUST01197,Dennis,Berry,nfinley@example.net,Mid-Market,Manufacturing,AU,Event,2024-12-01,False
+CUST01198,Matthew,Ayers,umoore@example.net,SMB,Technology,DE,Paid Social,2023-11-22,False
+CUST01199,Benjamin,Mitchell,sfreeman@example.org,SMB,Retail,DE,Direct,2024-06-10,True
+CUST01200,Steven,Weaver,feliciaingram@example.com,Mid-Market,Manufacturing,UK,Event,2025-09-14,True
+CUST01201,Nathan,Gray,vgarcia@example.com,SMB,Education,AU,Webinar,2023-04-22,True
+CUST01202,Christopher,Simmons,vcarter@example.net,Consumer,Technology,SE,Paid Search,2023-06-25,True
+CUST01203,Donna,Green,woodjason@example.org,SMB,Healthcare,CA,Paid Search,2026-01-10,True
+CUST01204,Jason,Hernandez,kellychristina@example.org,Enterprise,Healthcare,UK,Email Referral,2024-05-09,True
+CUST01205,Susan,Maxwell,jessicagrant@example.net,Consumer,Manufacturing,DE,Paid Search,2024-06-14,True
+CUST01206,Ashley,Buchanan,bmiller@example.com,Consumer,Education,CA,Event,2025-04-05,True
+CUST01207,Steven,Padilla,blozano@example.net,Enterprise,Manufacturing,DE,Paid Search,2025-03-04,True
+CUST01208,Lee,Torres,tammyblake@example.org,Consumer,Retail,UK,Organic Search,2024-01-22,True
+CUST01209,Michael,Robbins,nelsonjustin@example.com,Enterprise,Education,UK,Paid Social,2024-04-29,True
+CUST01210,Penny,Smith,kprice@example.org,Enterprise,Technology,CA,Organic Search,2023-07-13,True
+CUST01211,David,Walker,xchen@example.com,SMB,Education,FR,Paid Social,2025-05-21,True
+CUST01212,David,Skinner,ksharp@example.org,SMB,Finance,AU,Event,2024-09-17,True
+CUST01213,Billy,Castillo,powelltheresa@example.net,Enterprise,Finance,DE,Paid Search,2025-12-17,True
+CUST01214,Glen,Roberts,lesheri@example.com,Enterprise,Manufacturing,UK,Paid Search,2024-02-29,True
+CUST01215,Brianna,Stevens,mrobinson@example.net,SMB,Finance,DE,Webinar,2025-02-06,False
+CUST01216,Rachael,Castillo,dleonard@example.net,Mid-Market,Healthcare,UK,Paid Social,2023-04-22,True
+CUST01217,Richard,Gomez,roy48@example.com,SMB,Manufacturing,SE,Organic Search,2023-12-31,True
+CUST01218,Shelley,Maxwell,wattsmatthew@example.net,Consumer,Education,US,Organic Search,2024-10-01,True
+CUST01219,Noah,Brown,michelle12@example.com,Enterprise,Retail,NL,Paid Search,2024-03-20,True
+CUST01220,Breanna,Lloyd,cathy54@example.org,Consumer,Manufacturing,AU,Paid Social,2025-11-12,True
+CUST01221,Christopher,Morgan,valerie55@example.com,Mid-Market,Education,UK,Event,2024-07-13,True
+CUST01222,Antonio,Evans,sleon@example.com,Mid-Market,Technology,SE,Organic Search,2026-01-17,True
+CUST01223,Joseph,Scott,dicksonamanda@example.org,Consumer,Retail,FR,Paid Search,2024-10-25,True
+CUST01224,Christopher,Williams,brandonolson@example.com,SMB,Finance,NL,Paid Search,2023-06-15,True
+CUST01225,Jennifer,Pitts,nicole73@example.com,SMB,Finance,SE,Email Referral,2024-12-10,True
+CUST01226,Amanda,Carter,jjenkins@example.net,Consumer,Technology,AU,Email Referral,2023-11-09,True
+CUST01227,Christian,Moody,angela67@example.org,Mid-Market,Finance,AU,Direct,2023-06-03,True
+CUST01228,Melissa,Armstrong,apope@example.org,Enterprise,Retail,UK,Paid Social,2025-10-29,True
+CUST01229,Janet,Johnson,davenportrodney@example.net,Enterprise,Finance,SE,Email Referral,2025-05-23,True
+CUST01230,Anthony,Ramos,bethanymorris@example.com,Mid-Market,Manufacturing,FR,Direct,2023-04-20,True
+CUST01231,Briana,Munoz,brandon57@example.net,Consumer,Retail,UK,Paid Social,2023-08-19,True
+CUST01232,Lori,Price,kelsey64@example.com,Consumer,Retail,AU,Direct,2023-11-09,True
+CUST01233,David,Herring,tammie71@example.net,Mid-Market,Education,UK,Webinar,2024-11-06,False
+CUST01234,Jacqueline,Moody,brianvaldez@example.com,Consumer,Technology,SE,Paid Social,2026-01-30,True
+CUST01235,Natalie,Knight,bennettjamie@example.com,Consumer,Healthcare,CA,Email Referral,2024-11-22,True
+CUST01236,Derek,Myers,yucharles@example.org,Enterprise,Education,NL,Paid Social,2025-08-05,True
+CUST01237,Scott,Le,amanda66@example.com,Enterprise,Technology,FR,Event,2025-05-10,True
+CUST01238,Roger,Ross,jamesjuan@example.com,Enterprise,Healthcare,DE,Email Referral,2023-07-20,True
+CUST01239,Jennifer,Gibson,fergusonbarry@example.org,Consumer,Manufacturing,SE,Paid Search,2023-10-04,True
+CUST01240,Evan,Hunter,lambertbryan@example.net,SMB,Finance,CA,Email Referral,2024-05-28,True
+CUST01241,Victoria,Morris,staylor@example.org,SMB,Technology,US,Direct,2024-04-14,False
+CUST01242,Patricia,Alexander,jesse59@example.org,Consumer,Healthcare,CA,Organic Search,2023-05-16,True
+CUST01243,Haley,Villegas,suzannewilliams@example.org,Enterprise,Technology,AU,Organic Search,2023-12-24,False
+CUST01244,Matthew,Johnson,eschmidt@example.org,Enterprise,Healthcare,NL,Webinar,2025-09-26,True
+CUST01245,Jeremy,Richards,martinrasmussen@example.net,SMB,Education,NL,Email Referral,2024-09-10,True
+CUST01246,Mary,Ortiz,sharongonzalez@example.org,Mid-Market,Education,DE,Email Referral,2025-03-07,True
+CUST01247,Alejandro,Freeman,pattersonconnor@example.net,Consumer,Finance,NL,Paid Search,2024-08-19,True
+CUST01248,Linda,Lee,qhuang@example.org,Mid-Market,Healthcare,US,Organic Search,2024-06-29,True
+CUST01249,Patrick,Newman,msteele@example.org,Mid-Market,Education,SE,Webinar,2024-11-24,True
+CUST01250,Sarah,Martinez,eburke@example.net,Mid-Market,Technology,DE,Webinar,2026-01-23,False
+CUST01251,Cheryl,Jensen,brett46@example.com,Consumer,Education,NL,Direct,2026-03-15,True
+CUST01252,James,Ross,mitchell95@example.com,Consumer,Manufacturing,SE,Email Referral,2025-11-12,True
+CUST01253,Jason,Payne,david41@example.com,Mid-Market,Retail,US,Direct,2025-03-24,True
+CUST01254,Anthony,Chavez,rodneymendoza@example.net,Mid-Market,Education,CA,Email Referral,2026-01-21,False
+CUST01255,Anthony,Nelson,jenniferrich@example.org,SMB,Technology,US,Direct,2025-06-24,True
+CUST01256,Ricardo,Hernandez,nelsoncarlos@example.org,SMB,Technology,SE,Webinar,2024-09-16,True
+CUST01257,Jeffrey,Burke,gonzalezjean@example.org,SMB,Retail,UK,Direct,2023-11-08,False
+CUST01258,Roger,Kane,lsanchez@example.net,Enterprise,Healthcare,SE,Webinar,2023-05-13,True
+CUST01259,Timothy,Campbell,xavier65@example.net,Enterprise,Education,CA,Direct,2023-09-08,True
+CUST01260,Dennis,Taylor,tyler55@example.org,SMB,Manufacturing,US,Email Referral,2023-05-14,True
+CUST01261,Brian,Nguyen,mreese@example.net,Consumer,Manufacturing,AU,Email Referral,2025-11-04,True
+CUST01262,Gregory,Ortega,nfrost@example.org,SMB,Finance,DE,Organic Search,2025-01-26,True
+CUST01263,Jason,Butler,tracybuchanan@example.org,SMB,Education,CA,Organic Search,2024-11-25,True
+CUST01264,Frank,David,vicki75@example.net,Mid-Market,Manufacturing,US,Webinar,2024-02-10,False
+CUST01265,Rachael,Mathews,anthonynguyen@example.net,Enterprise,Finance,SE,Organic Search,2024-10-21,True
+CUST01266,Stacy,Scott,kobrien@example.net,Enterprise,Finance,CA,Paid Search,2023-07-08,True
+CUST01267,Jeremy,Alvarez,tlewis@example.net,SMB,Finance,US,Webinar,2023-07-02,True
+CUST01268,Craig,Byrd,deleonkimberly@example.org,Mid-Market,Manufacturing,DE,Webinar,2023-08-09,True
+CUST01269,Karen,Sanchez,millsjessica@example.com,Mid-Market,Finance,FR,Email Referral,2026-03-28,True
+CUST01270,Dawn,Montoya,lzhang@example.net,Enterprise,Finance,UK,Paid Search,2024-08-14,True
+CUST01271,Mark,Solis,tphillips@example.org,Mid-Market,Retail,NL,Event,2024-06-02,True
+CUST01272,Randy,Stanley,chadharris@example.com,Consumer,Education,DE,Paid Search,2025-09-02,True
+CUST01273,Jeff,Burch,wagnermartin@example.com,SMB,Technology,CA,Event,2025-10-25,False
+CUST01274,Gary,Hunter,shannon91@example.net,Enterprise,Healthcare,SE,Email Referral,2023-12-16,True
+CUST01275,Edward,Daniels,hamiltondeborah@example.org,Consumer,Education,FR,Email Referral,2023-12-28,True
+CUST01276,Brian,Smith,davidwilliams@example.com,Consumer,Retail,CA,Paid Search,2025-10-08,True
+CUST01277,Julie,Navarro,milesmelissa@example.net,Consumer,Technology,CA,Event,2023-06-23,True
+CUST01278,Juan,Stewart,zimmermanamy@example.net,SMB,Manufacturing,US,Organic Search,2023-11-10,False
+CUST01279,Chad,Alvarado,anitacoffey@example.net,SMB,Retail,CA,Paid Social,2025-04-23,True
+CUST01280,John,Solomon,joshuajones@example.org,Enterprise,Finance,NL,Email Referral,2025-02-25,True
+CUST01281,Martin,Davis,kaitlyn58@example.org,Mid-Market,Education,FR,Direct,2025-12-08,True
+CUST01282,Kirk,Moran,jesusgregory@example.net,Mid-Market,Finance,US,Webinar,2024-03-23,True
+CUST01283,Joseph,Estrada,lisa90@example.com,Enterprise,Technology,NL,Organic Search,2023-08-02,True
+CUST01284,Amy,Haley,trivera@example.org,Consumer,Finance,FR,Webinar,2024-07-27,True
+CUST01285,Jason,Martin,owenstodd@example.org,Mid-Market,Technology,US,Direct,2024-05-24,True
+CUST01286,Andrew,Jacobs,akirk@example.net,Mid-Market,Manufacturing,UK,Webinar,2025-09-20,False
+CUST01287,Julian,Williams,pcruz@example.org,Enterprise,Manufacturing,DE,Email Referral,2026-02-08,True
+CUST01288,Ricky,Davis,xtucker@example.com,Mid-Market,Technology,DE,Paid Social,2024-04-12,True
+CUST01289,Maria,Miller,tyler57@example.com,Enterprise,Education,SE,Paid Social,2026-01-02,True
+CUST01290,Tammy,Garcia,ujohnson@example.com,SMB,Finance,DE,Event,2023-04-25,True
+CUST01291,Bruce,Barron,kelly78@example.org,Enterprise,Retail,NL,Paid Social,2025-10-27,False
+CUST01292,Lisa,Carlson,twilliams@example.com,SMB,Finance,DE,Email Referral,2023-07-13,True
+CUST01293,Shane,Skinner,simmonssamuel@example.com,Mid-Market,Manufacturing,NL,Paid Search,2026-02-23,True
+CUST01294,Andrea,Lopez,pbuckley@example.com,Enterprise,Healthcare,NL,Paid Search,2024-10-29,True
+CUST01295,Cheyenne,Moore,burnettheather@example.com,Enterprise,Retail,CA,Organic Search,2023-08-06,True
+CUST01296,Tyrone,Howard,zboyd@example.net,Enterprise,Manufacturing,CA,Event,2025-03-20,True
+CUST01297,Thomas,Lewis,lisa80@example.net,Consumer,Healthcare,US,Organic Search,2024-10-03,True
+CUST01298,Corey,Oliver,myerstammy@example.net,SMB,Healthcare,AU,Email Referral,2025-05-04,True
+CUST01299,Shannon,Davis,howardricardo@example.net,Consumer,Retail,NL,Email Referral,2026-01-14,False
+CUST01300,Raymond,Ramos,taylordonald@example.org,Enterprise,Manufacturing,FR,Organic Search,2024-05-19,True
+CUST01301,Tara,Ross,tuckernicole@example.com,Consumer,Technology,AU,Paid Social,2025-12-05,True
+CUST01302,Michael,Wallace,hshelton@example.org,Consumer,Technology,UK,Paid Social,2024-06-28,True
+CUST01303,Jacob,Abbott,griffinsamantha@example.org,SMB,Technology,SE,Event,2023-08-17,True
+CUST01304,Kimberly,Wright,timothylucas@example.org,Mid-Market,Healthcare,US,Email Referral,2025-02-20,True
+CUST01305,Nancy,White,luke73@example.org,SMB,Education,NL,Organic Search,2025-06-23,True
+CUST01306,Cassidy,Robinson,brownmichael@example.org,SMB,Retail,UK,Webinar,2025-07-21,True
+CUST01307,Lori,Snyder,powellsandra@example.org,Mid-Market,Healthcare,US,Paid Search,2026-02-10,True
+CUST01308,Diana,Ferguson,laura69@example.net,Mid-Market,Retail,NL,Organic Search,2026-02-08,True
+CUST01309,Danny,Murphy,andrewsavage@example.com,SMB,Retail,SE,Organic Search,2023-05-30,True
+CUST01310,Jessica,Hughes,gtorres@example.org,Enterprise,Finance,US,Email Referral,2023-09-14,True
+CUST01311,Natalie,Mclaughlin,benjaminkelly@example.com,Consumer,Education,DE,Webinar,2023-10-23,True
+CUST01312,Amanda,Torres,norrismichael@example.net,Enterprise,Technology,DE,Email Referral,2023-07-16,True
+CUST01313,Breanna,Bradley,omartin@example.net,Consumer,Manufacturing,US,Paid Search,2024-05-01,True
+CUST01314,Dawn,Kaufman,juan40@example.com,Mid-Market,Technology,DE,Webinar,2023-11-08,True
+CUST01315,Kelsey,Sherman,danahoward@example.com,SMB,Technology,SE,Direct,2024-08-21,True
+CUST01316,Gabriella,Davis,ijohnson@example.net,Enterprise,Technology,UK,Email Referral,2024-11-21,True
+CUST01317,Matthew,Taylor,jessicalee@example.org,Mid-Market,Technology,FR,Email Referral,2023-07-11,True
+CUST01318,Theodore,Price,jillzimmerman@example.com,Consumer,Finance,UK,Webinar,2024-10-04,True
+CUST01319,Nicole,Lloyd,hessbrian@example.org,Mid-Market,Finance,FR,Event,2024-05-28,True
+CUST01320,Jeffery,Andrade,kennedyjason@example.com,Mid-Market,Finance,UK,Organic Search,2023-07-25,True
+CUST01321,Ashley,Wilson,joshuacook@example.com,Consumer,Healthcare,AU,Direct,2023-10-10,True
+CUST01322,Gina,Pierce,kevin79@example.com,Mid-Market,Manufacturing,US,Paid Search,2025-04-10,True
+CUST01323,Barbara,Goodman,christinahernandez@example.org,Consumer,Healthcare,US,Email Referral,2024-11-09,True
+CUST01324,Briana,Turner,ugreen@example.net,Enterprise,Healthcare,UK,Webinar,2023-11-11,True
+CUST01325,Bryan,Martin,jeanettehaynes@example.org,SMB,Retail,SE,Webinar,2025-10-26,True
+CUST01326,Todd,Johnson,bvance@example.net,Mid-Market,Education,CA,Direct,2025-07-19,True
+CUST01327,Samantha,Hunt,cshepherd@example.com,Mid-Market,Healthcare,US,Direct,2024-04-14,True
+CUST01328,Lori,Garcia,plambert@example.com,Consumer,Manufacturing,UK,Webinar,2024-03-29,False
+CUST01329,Tammy,Stewart,fergusonmatthew@example.net,SMB,Finance,NL,Organic Search,2023-11-25,True
+CUST01330,Lauren,Arnold,laura18@example.org,Mid-Market,Technology,UK,Direct,2026-02-07,True
+CUST01331,Nicole,James,rebeccachen@example.net,Mid-Market,Retail,FR,Paid Social,2024-12-23,True
+CUST01332,Tommy,Riley,timothy60@example.net,Enterprise,Healthcare,SE,Email Referral,2025-01-20,True
+CUST01333,Cheryl,Jones,vnicholson@example.com,Enterprise,Technology,AU,Paid Social,2024-05-29,True
+CUST01334,Jennifer,Hardy,jasonrussell@example.com,SMB,Finance,SE,Organic Search,2026-03-19,True
+CUST01335,Vanessa,Morgan,qholden@example.net,Enterprise,Manufacturing,DE,Paid Search,2023-07-08,True
+CUST01336,John,Madden,lindawatson@example.com,Consumer,Manufacturing,UK,Organic Search,2025-12-31,False
+CUST01337,Ashley,Nguyen,cobbandrea@example.com,Consumer,Manufacturing,AU,Email Referral,2025-08-12,True
+CUST01338,Zachary,Newman,brian39@example.org,SMB,Healthcare,UK,Paid Social,2024-12-11,True
+CUST01339,Justin,Cole,nicholas84@example.net,Mid-Market,Education,NL,Event,2023-05-12,True
+CUST01340,Megan,Gutierrez,brownmonica@example.com,Mid-Market,Technology,SE,Direct,2026-01-10,True
+CUST01341,Julie,Hill,smithbenjamin@example.org,Consumer,Healthcare,FR,Direct,2023-12-18,True
+CUST01342,Jessica,Thomas,dillonalexandra@example.net,Consumer,Finance,DE,Email Referral,2024-11-22,True
+CUST01343,Stacy,Rodriguez,hicksamanda@example.net,SMB,Finance,FR,Paid Social,2025-02-19,True
+CUST01344,Charles,Bailey,xhill@example.org,Enterprise,Finance,DE,Organic Search,2024-05-26,False
+CUST01345,Marcus,Bentley,phernandez@example.com,Consumer,Retail,DE,Event,2024-06-07,True
+CUST01346,Alyssa,Cooley,julieburns@example.net,SMB,Manufacturing,DE,Event,2023-06-14,True
+CUST01347,Brittany,Owens,christinajackson@example.org,Mid-Market,Manufacturing,FR,Organic Search,2024-01-14,True
+CUST01348,Glenn,Brown,robert84@example.net,Consumer,Healthcare,SE,Event,2024-06-13,True
+CUST01349,Cindy,Lopez,ronald42@example.com,Enterprise,Education,NL,Webinar,2026-03-13,False
+CUST01350,Eric,Abbott,collierjames@example.org,Mid-Market,Finance,NL,Direct,2026-03-01,True
+CUST01351,Kelly,Ford,yortega@example.net,Mid-Market,Manufacturing,US,Email Referral,2025-04-10,False
+CUST01352,Sandra,Ellison,emilyguerrero@example.net,Enterprise,Retail,US,Email Referral,2026-02-08,True
+CUST01353,Heather,Spencer,dennisgarcia@example.com,Consumer,Education,UK,Email Referral,2024-03-09,True
+CUST01354,Steven,Parker,tgarcia@example.net,Enterprise,Manufacturing,US,Webinar,2025-06-20,True
+CUST01355,Cassandra,Bush,alexandradecker@example.org,Mid-Market,Healthcare,AU,Paid Social,2024-12-04,True
+CUST01356,Sherry,Ortiz,wagnerderrick@example.net,Enterprise,Technology,SE,Webinar,2023-06-15,True
+CUST01357,Jamie,Perez,mhobbs@example.org,Consumer,Manufacturing,US,Email Referral,2025-02-28,True
+CUST01358,James,Martin,gsimon@example.org,Mid-Market,Education,NL,Paid Search,2024-09-09,True
+CUST01359,Adam,Nguyen,sharonjohnson@example.org,SMB,Education,SE,Webinar,2024-03-31,True
+CUST01360,George,Castro,allison48@example.com,Enterprise,Retail,AU,Direct,2025-06-30,True
+CUST01361,Amanda,Jones,fosterwayne@example.net,Consumer,Finance,FR,Event,2025-02-17,True
+CUST01362,Timothy,Palmer,kimberlyjuarez@example.net,SMB,Education,US,Direct,2025-02-07,False
+CUST01363,Michael,Martinez,ylawrence@example.com,SMB,Technology,UK,Email Referral,2023-07-13,True
+CUST01364,Adrian,Wilson,susan58@example.com,Enterprise,Finance,AU,Paid Search,2025-11-02,True
+CUST01365,Angela,Avila,blackmichelle@example.org,Enterprise,Manufacturing,FR,Paid Search,2024-11-24,False
+CUST01366,Erika,Carroll,smithjerry@example.org,Mid-Market,Manufacturing,UK,Webinar,2024-11-09,True
+CUST01367,Justin,Mcclure,zhudson@example.com,Mid-Market,Education,FR,Paid Social,2024-04-13,True
+CUST01368,Gary,Holland,keithlucas@example.com,SMB,Manufacturing,NL,Paid Social,2024-05-25,True
+CUST01369,Alexander,Smith,sullivanpatrick@example.org,SMB,Finance,SE,Email Referral,2023-08-30,True
+CUST01370,Raymond,Garcia,lindaclark@example.net,Enterprise,Retail,CA,Email Referral,2024-08-20,True
+CUST01371,Andrew,Pitts,amberlewis@example.net,Enterprise,Healthcare,SE,Organic Search,2024-09-23,True
+CUST01372,Janet,Cole,smithjoseph@example.com,Mid-Market,Finance,UK,Organic Search,2025-06-04,True
+CUST01373,Larry,Miller,uphillips@example.org,Enterprise,Education,DE,Email Referral,2024-12-24,True
+CUST01374,Trevor,Paul,scott48@example.com,Mid-Market,Manufacturing,US,Paid Social,2025-11-24,True
+CUST01375,Charles,Ross,roachsara@example.net,Mid-Market,Retail,AU,Email Referral,2025-09-23,True
+CUST01376,Benjamin,Bradley,xfoster@example.org,Enterprise,Finance,FR,Organic Search,2024-03-08,True
+CUST01377,Christian,Andrews,benjaminwilliams@example.net,Mid-Market,Manufacturing,AU,Email Referral,2023-12-25,True
+CUST01378,Jon,Harrington,susanmcgee@example.com,SMB,Retail,SE,Email Referral,2025-12-16,True
+CUST01379,Robyn,Jones,scottburnett@example.net,Mid-Market,Finance,DE,Event,2025-10-04,True
+CUST01380,Wendy,Ware,mary99@example.com,Consumer,Finance,CA,Event,2025-07-09,False
+CUST01381,Phillip,Smith,alanburton@example.org,Mid-Market,Finance,CA,Email Referral,2025-04-21,False
+CUST01382,Bobby,Butler,reedrebecca@example.com,Mid-Market,Education,CA,Paid Search,2025-09-20,False
+CUST01383,Veronica,Stanton,xsmith@example.net,Mid-Market,Healthcare,FR,Organic Search,2024-04-29,True
+CUST01384,Brandon,Andrews,wford@example.com,SMB,Manufacturing,DE,Email Referral,2024-09-02,True
+CUST01385,Tina,Roberts,timothywatson@example.org,Mid-Market,Healthcare,US,Webinar,2024-10-19,True
+CUST01386,Brandy,Morgan,kyleterry@example.net,SMB,Healthcare,AU,Email Referral,2025-11-17,True
+CUST01387,Richard,Gonzales,deanshane@example.org,Mid-Market,Manufacturing,CA,Organic Search,2024-02-23,False
+CUST01388,Dean,Mitchell,davischristian@example.org,Consumer,Retail,DE,Email Referral,2023-09-10,False
+CUST01389,Alexander,Garcia,billy42@example.net,Mid-Market,Technology,AU,Webinar,2024-12-24,True
+CUST01390,William,Wallace,markparker@example.net,Consumer,Finance,DE,Event,2025-03-13,True
+CUST01391,Lydia,Campbell,angelamoran@example.org,Consumer,Finance,UK,Webinar,2024-09-03,True
+CUST01392,Lori,Stevenson,gjohnson@example.net,Enterprise,Healthcare,UK,Paid Social,2024-09-02,True
+CUST01393,Andrea,Herrera,richardcameron@example.com,Mid-Market,Retail,AU,Organic Search,2026-04-14,True
+CUST01394,Calvin,Robinson,scottbush@example.com,Mid-Market,Manufacturing,FR,Event,2024-11-09,False
+CUST01395,Ronald,Brooks,travis67@example.net,SMB,Healthcare,US,Organic Search,2025-07-17,True
+CUST01396,Kristen,Mckay,christine63@example.net,Consumer,Education,UK,Direct,2026-01-05,True
+CUST01397,Michelle,Lopez,davidrowe@example.org,Consumer,Finance,US,Webinar,2024-07-20,True
+CUST01398,Zachary,Johnson,justin01@example.net,Mid-Market,Education,NL,Paid Social,2026-01-24,True
+CUST01399,Vanessa,Stanley,harrisrachel@example.net,Enterprise,Finance,AU,Paid Social,2025-01-09,True
+CUST01400,Jorge,Cisneros,elloyd@example.com,Consumer,Manufacturing,UK,Paid Search,2026-01-10,True
+CUST01401,Leah,Horton,joanna13@example.com,Consumer,Education,NL,Event,2026-03-04,True
+CUST01402,Elizabeth,Anthony,gouldmichael@example.net,Mid-Market,Education,NL,Webinar,2025-06-20,False
+CUST01403,Brian,Baldwin,mary99@example.com,Mid-Market,Manufacturing,UK,Paid Search,2026-04-12,True
+CUST01404,Randy,Hill,wswanson@example.net,Consumer,Manufacturing,AU,Organic Search,2024-08-13,False
+CUST01405,Howard,King,tammycummings@example.com,Consumer,Technology,US,Email Referral,2023-10-31,True
+CUST01406,Lisa,Mason,johnsmith@example.net,SMB,Retail,DE,Direct,2026-04-17,True
+CUST01407,Donna,Hernandez,robertspencer@example.net,Mid-Market,Healthcare,DE,Event,2025-12-25,True
+CUST01408,Natalie,Lucas,jlam@example.net,Consumer,Technology,CA,Event,2023-11-16,True
+CUST01409,Spencer,Morris,robersonaudrey@example.com,Consumer,Manufacturing,SE,Paid Search,2023-07-13,True
+CUST01410,Lance,Ochoa,morrismarie@example.org,Enterprise,Healthcare,CA,Paid Social,2024-07-04,False
+CUST01411,Amber,Mcdonald,ybrown@example.net,Consumer,Technology,CA,Email Referral,2025-06-17,True
+CUST01412,Donald,Rogers,william73@example.com,Mid-Market,Technology,UK,Event,2024-12-08,True
+CUST01413,Joshua,Berry,xmartinez@example.org,Enterprise,Manufacturing,AU,Direct,2024-04-03,True
+CUST01414,Kathleen,Green,michealbarnes@example.com,Consumer,Finance,SE,Webinar,2024-07-07,False
+CUST01415,Rachel,Klein,matthew04@example.net,SMB,Manufacturing,US,Event,2025-07-19,True
+CUST01416,Brittany,Zavala,amberjohnston@example.org,Enterprise,Healthcare,AU,Email Referral,2026-01-01,False
+CUST01417,Margaret,Douglas,vsmith@example.org,Mid-Market,Finance,DE,Organic Search,2025-06-29,True
+CUST01418,Melissa,Chavez,gjordan@example.org,Consumer,Education,AU,Organic Search,2023-08-16,True
+CUST01419,Michael,Lee,michael57@example.org,Enterprise,Manufacturing,FR,Event,2025-08-22,True
+CUST01420,Miguel,Merritt,kathleenflores@example.org,Enterprise,Manufacturing,DE,Direct,2026-03-10,True
+CUST01421,Joseph,Shelton,ogay@example.net,SMB,Education,CA,Paid Social,2026-01-07,True
+CUST01422,Sarah,Coleman,zacharybass@example.com,SMB,Technology,AU,Event,2023-11-02,True
+CUST01423,Roy,Campos,vdougherty@example.org,Mid-Market,Manufacturing,CA,Paid Social,2024-05-31,True
+CUST01424,Brandy,Johnson,georgerachel@example.com,Consumer,Finance,DE,Organic Search,2023-05-30,True
+CUST01425,Holly,Anthony,slamb@example.net,Mid-Market,Healthcare,UK,Email Referral,2025-02-13,True
+CUST01426,David,Jordan,vblackwell@example.com,Enterprise,Technology,DE,Organic Search,2025-08-15,True
+CUST01427,Alex,Manning,qsmith@example.net,SMB,Education,AU,Paid Search,2025-01-13,False
+CUST01428,Sharon,Mercado,kimberlywood@example.com,SMB,Healthcare,CA,Organic Search,2024-09-26,True
+CUST01429,Robyn,Hammond,cdavis@example.org,Enterprise,Healthcare,DE,Event,2026-04-02,True
+CUST01430,Austin,Jones,jerrymayer@example.org,Mid-Market,Finance,DE,Paid Search,2024-04-30,True
+CUST01431,Sarah,Mitchell,christine89@example.net,Enterprise,Retail,UK,Organic Search,2023-05-30,True
+CUST01432,John,Lara,ceaton@example.com,Consumer,Retail,US,Paid Search,2023-11-18,True
+CUST01433,Melissa,Spence,alexander60@example.com,Enterprise,Retail,UK,Paid Social,2023-06-15,True
+CUST01434,George,Palmer,monroedawn@example.org,SMB,Education,US,Event,2024-10-13,True
+CUST01435,Adam,Wyatt,tanyaoliver@example.com,Enterprise,Manufacturing,FR,Direct,2025-07-03,False
+CUST01436,James,Miller,kclark@example.com,Mid-Market,Education,AU,Organic Search,2023-05-15,True
+CUST01437,Charles,Jones,kimberlyharrison@example.com,SMB,Manufacturing,AU,Paid Social,2023-11-06,True
+CUST01438,Jasmine,Thomas,iquinn@example.com,Mid-Market,Manufacturing,UK,Organic Search,2024-06-14,False
+CUST01439,Mikayla,Ward,samantharose@example.org,Enterprise,Manufacturing,FR,Webinar,2025-08-04,True
+CUST01440,Mary,Garcia,riosheather@example.net,SMB,Healthcare,US,Webinar,2025-08-30,True
+CUST01441,Theresa,Salas,virginiachen@example.org,Mid-Market,Manufacturing,SE,Paid Social,2023-07-04,True
+CUST01442,Kristen,Martin,yelliott@example.org,Mid-Market,Retail,UK,Paid Search,2024-08-20,False
+CUST01443,Matthew,Thomas,xjackson@example.net,Consumer,Retail,FR,Direct,2025-02-28,True
+CUST01444,Gregory,Smith,benjaminanderson@example.net,Enterprise,Finance,UK,Email Referral,2023-09-25,True
+CUST01445,Darius,Schneider,ianhess@example.com,Mid-Market,Retail,AU,Webinar,2024-11-12,True
+CUST01446,Cole,Giles,laurabuchanan@example.com,Enterprise,Technology,AU,Email Referral,2025-06-17,True
+CUST01447,Gina,Johnson,jennifer18@example.net,SMB,Retail,CA,Webinar,2025-12-03,False
+CUST01448,Benjamin,Bush,stevenrodriguez@example.org,Consumer,Healthcare,NL,Paid Social,2023-12-30,False
+CUST01449,Sara,Mitchell,andersonchristine@example.net,Consumer,Healthcare,UK,Event,2024-05-31,False
+CUST01450,Sharon,Donaldson,brittany08@example.com,SMB,Healthcare,US,Webinar,2023-12-14,True
+CUST01451,Alexandra,Pratt,richardsmargaret@example.org,Enterprise,Retail,SE,Direct,2025-05-16,True
+CUST01452,Jennifer,Mooney,melissa46@example.org,Enterprise,Technology,DE,Email Referral,2023-10-26,True
+CUST01453,Lynn,Cook,davidcarr@example.net,Enterprise,Education,DE,Organic Search,2023-05-24,True
+CUST01454,John,Fry,yallen@example.org,Mid-Market,Finance,FR,Direct,2023-09-09,False
+CUST01455,Julie,Reynolds,michaelhenderson@example.com,Consumer,Technology,FR,Event,2024-03-23,True
+CUST01456,Linda,Sweeney,manuel83@example.org,Consumer,Finance,CA,Event,2025-01-15,True
+CUST01457,Sheryl,Pitts,dmarshall@example.org,Consumer,Finance,SE,Webinar,2024-11-20,True
+CUST01458,Eric,Thomas,carrillohannah@example.com,Consumer,Retail,CA,Paid Search,2024-06-09,True
+CUST01459,Michael,Mullins,rkirby@example.org,Enterprise,Technology,CA,Email Referral,2025-08-12,True
+CUST01460,Miguel,Torres,ymcintyre@example.net,Mid-Market,Technology,UK,Webinar,2025-07-13,True
+CUST01461,Todd,Walker,orrjoshua@example.org,Enterprise,Retail,US,Paid Search,2024-08-27,True
+CUST01462,Gregory,Austin,rodriguezkevin@example.com,SMB,Healthcare,CA,Direct,2024-12-23,True
+CUST01463,Thomas,Morales,scott91@example.org,Enterprise,Education,SE,Event,2026-02-22,True
+CUST01464,Katie,Galloway,christy25@example.net,SMB,Education,SE,Email Referral,2023-11-06,True
+CUST01465,Juan,Liu,charles68@example.net,SMB,Manufacturing,US,Event,2026-03-31,True
+CUST01466,Elijah,Conner,rebeccasanford@example.org,Consumer,Technology,NL,Email Referral,2023-08-09,True
+CUST01467,Diane,Hart,dickersonjulie@example.com,Consumer,Retail,SE,Organic Search,2024-08-02,True
+CUST01468,Brandon,Smith,latasha15@example.net,SMB,Education,DE,Email Referral,2024-11-28,True
+CUST01469,Mary,Davila,lisabanks@example.net,SMB,Education,NL,Email Referral,2024-03-07,True
+CUST01470,Samuel,Mueller,heatherhood@example.org,Consumer,Education,SE,Email Referral,2023-11-09,True
+CUST01471,Rebecca,Duke,brosario@example.net,Mid-Market,Manufacturing,US,Email Referral,2026-01-20,True
+CUST01472,Tiffany,Terrell,timothy92@example.com,Consumer,Manufacturing,AU,Event,2025-01-10,False
+CUST01473,Charles,Hicks,rscott@example.com,SMB,Technology,US,Direct,2023-12-25,True
+CUST01474,Kevin,Adams,briandominguez@example.org,SMB,Finance,US,Event,2025-04-11,False
+CUST01475,Robert,Jenkins,maureen18@example.org,SMB,Retail,UK,Email Referral,2024-06-10,True
+CUST01476,Cindy,Williams,craigwang@example.net,SMB,Retail,AU,Organic Search,2026-03-25,True
+CUST01477,Christopher,Decker,suarezjose@example.com,Mid-Market,Healthcare,CA,Direct,2023-10-28,True
+CUST01478,Jerry,Small,grodriguez@example.com,Enterprise,Finance,UK,Paid Social,2025-02-24,True
+CUST01479,Valerie,Miller,williamcarlson@example.net,SMB,Technology,SE,Webinar,2025-01-16,False
+CUST01480,Robert,Davis,corywelch@example.org,Consumer,Finance,US,Webinar,2025-07-15,True
+CUST01481,Matthew,Keller,davisjohnny@example.org,Enterprise,Finance,NL,Direct,2025-12-22,True
+CUST01482,Glen,Ray,stacy06@example.com,Enterprise,Retail,UK,Webinar,2024-09-19,True
+CUST01483,Pamela,Fernandez,michaeldavies@example.net,SMB,Retail,AU,Paid Search,2024-04-02,True
+CUST01484,Kevin,Washington,pchen@example.org,SMB,Retail,FR,Email Referral,2023-07-18,True
+CUST01485,Paul,Reed,mitchell06@example.net,Enterprise,Manufacturing,FR,Paid Social,2023-05-01,True
+CUST01486,Juan,Soto,jaredbrown@example.org,SMB,Manufacturing,NL,Event,2025-06-11,True
+CUST01487,Cheryl,Cameron,ewatson@example.net,Enterprise,Education,UK,Direct,2025-02-13,True
+CUST01488,Shawn,Davis,lisa22@example.org,Enterprise,Manufacturing,SE,Email Referral,2025-11-22,True
+CUST01489,Kelsey,Kelly,antoniomorales@example.com,Enterprise,Education,CA,Direct,2025-02-12,False
+CUST01490,Victoria,Meyers,carrkevin@example.com,Consumer,Education,AU,Paid Search,2025-02-16,True
+CUST01491,Robert,Orozco,gwillis@example.org,SMB,Manufacturing,SE,Webinar,2023-10-25,True
+CUST01492,Kyle,Smith,diana78@example.org,Mid-Market,Technology,DE,Direct,2026-02-02,True
+CUST01493,Thomas,Coleman,sarahlucas@example.org,Consumer,Finance,NL,Direct,2023-05-27,True
+CUST01494,Shannon,Perez,vfrederick@example.org,Enterprise,Manufacturing,FR,Paid Social,2024-01-01,True
+CUST01495,Richard,Navarro,laurieperez@example.com,Mid-Market,Healthcare,CA,Event,2024-12-28,True
+CUST01496,Calvin,Brown,rogersaaron@example.net,SMB,Technology,FR,Event,2025-06-17,True
+CUST01497,David,Wheeler,april13@example.org,SMB,Education,DE,Paid Social,2023-05-29,True
+CUST01498,Jennifer,Evans,whitneyshaw@example.net,Mid-Market,Retail,FR,Organic Search,2023-12-27,True
+CUST01499,Sean,Morgan,haletyler@example.net,Enterprise,Healthcare,CA,Email Referral,2023-11-30,True
+CUST01500,Samantha,Frederick,maxwellruben@example.net,Consumer,Retail,US,Paid Search,2024-07-21,True

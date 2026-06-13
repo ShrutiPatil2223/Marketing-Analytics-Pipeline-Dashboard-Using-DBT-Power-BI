@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: marketing_raw
+    project: marketing-analytics-dbt-497908
+    dataset: marketing_raw
+    tables:
+      - name: customers
+      - name: sessions
+      - name: campaigns
+      - name: orders
