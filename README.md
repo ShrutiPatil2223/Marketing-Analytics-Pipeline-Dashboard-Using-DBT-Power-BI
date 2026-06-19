@@ -140,9 +140,6 @@ Final wide tables ready for reporting. Optimised for Power BI consumption.
 - Google Cloud account with BigQuery access
 - Service account key with BigQuery permissions
 
-```
-
----
 
 ## ✅ dbt Tests Implemented
 
