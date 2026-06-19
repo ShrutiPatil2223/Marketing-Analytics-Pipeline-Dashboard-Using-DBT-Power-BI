@@ -169,9 +169,6 @@ Final wide tables ready for reporting. Optimised for Power BI consumption.
 **Shruti**
 MSc Data Science · BHT Berlin
 Analytics Engineering · dbt · BigQuery · Power BI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shrutigpatil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShrutiPatil2223)
 [LinkedIn](https://www.linkedin.com/in/shrutigpatil/) | [GitHub](https://github.com/ShrutiPatil2223)
 ---
 
