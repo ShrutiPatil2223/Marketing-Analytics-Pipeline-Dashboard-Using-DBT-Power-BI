@@ -1,3 +1,5 @@
+# Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI
+
 ## 🗂️ Project Overview
 
 This project builds a complete **Marketing Analytics data pipeline** from raw CSV data through to an interactive Power BI dashboard. It follows modern analytics engineering best practices using **dbt** for transformation, **BigQuery** as the data warehouse, and **Power BI** for visualization.
