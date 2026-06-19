@@ -32,6 +32,40 @@ dbt Mart Models          → mart_customer_journey, mart_campaign_performance, m
 Power BI Dashboard       → 3-page interactive report
 ```
 
+## 📊 Power BI Dashboard
+
+The report has **3 pages**:
+
+### Page 1 — Customer Insights & Journey
+- Total Customers, Avg CLV, Avg Days to First Purchase, Session → Order Rate
+- Customers by Country (map)
+- Avg CLV by Segment (bar chart)
+- RFM Scatter — Recency vs Frequency sized by Monetary value
+
+### Page 2 — Campaign ROI & Performance Analysis
+- EURO Spend, ROAS, Revenue KPI cards
+- ROI% by Channel (stacked bar)
+- CTR by Channel (bar chart)
+- Spend vs Revenue by Campaign (scatter)
+- Campaign Performance Details (table)
+
+### Page 3 — Channel Mix & Spend Analysis
+- Revenue by Month (line chart)
+- ROAS by Month (line chart)
+- Revenue Share by Channel (donut chart)
+- Total Spend by Channel & Month (matrix table)
+
+---
+---
+
+## 📸 Dashboard Preview
+
+> *Screenshots of all 3 dashboard pages*
+![Customer Journey](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/customer%20insights.png)
+![Campaign ROI](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/campaign%20analysis.png)
+![Channel Mix](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/channel%20mix%20%26%20spend%20analysis.png)
+---
+
 ---
 
 ## 🛠️ Tech Stack
@@ -110,30 +144,6 @@ Final wide tables ready for reporting. Optimised for Power BI consumption.
 
 ---
 
-## 📊 Power BI Dashboard
-
-The report has **3 pages**:
-
-### Page 1 — Customer Insights & Journey
-- Total Customers, Avg CLV, Avg Days to First Purchase, Session → Order Rate
-- Customers by Country (map)
-- Avg CLV by Segment (bar chart)
-- RFM Scatter — Recency vs Frequency sized by Monetary value
-
-### Page 2 — Campaign ROI & Performance Analysis
-- EURO Spend, ROAS, Revenue KPI cards
-- ROI% by Channel (stacked bar)
-- CTR by Channel (bar chart)
-- Spend vs Revenue by Campaign (scatter)
-- Campaign Performance Details (table)
-
-### Page 3 — Channel Mix & Spend Analysis
-- Revenue by Month (line chart)
-- ROAS by Month (line chart)
-- Revenue Share by Channel (donut chart)
-- Total Spend by Channel & Month (matrix table)
-
----
 
 ## ⚙️ How to Run
 
@@ -143,53 +153,6 @@ The report has **3 pages**:
 - Google Cloud account with BigQuery access
 - Service account key with BigQuery permissions
 
-### Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/marketing-analytics-dbt.git
-cd marketing-analytics-dbt
-
-# Install dbt dependencies
-pip install dbt-bigquery
-
-# Configure your profiles.yml with your BigQuery project details
-# profiles.yml location: ~/.dbt/profiles.yml
-```
-
-### profiles.yml example
-
-```yaml
-marketing_analytics:
-  target: dev
-  outputs:
-    dev:
-      type: bigquery
-      method: service-account
-      project: your-gcp-project-id
-      dataset: marketing_dev
-      keyfile: /path/to/your/keyfile.json
-      threads: 4
-```
-
-### Run the pipeline
-
-```bash
-# Test your connection
-dbt debug
-
-# Install packages
-dbt deps
-
-# Run all models
-dbt run
-
-# Run tests
-dbt test
-
-# Generate & serve documentation
-dbt docs generate
-dbt docs serve
 ```
 
 ---
@@ -213,15 +176,6 @@ dbt docs serve
 - **`persist_docs`** — column descriptions pushed to BigQuery from dbt YAML
 - **DAX measures** in Power BI for dynamic ROAS calculation
 
----
-
-## 📸 Dashboard Preview
-
-> *Screenshots of all 3 dashboard pages*
-![Customer Journey](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/customer%20insights.png)
-![Campaign ROI](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/campaign%20analysis.png)
-![Channel Mix](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/channel%20mix%20%26%20spend%20analysis.png)
----
 
 ## 👩‍💻 Author
 
@@ -230,13 +184,7 @@ MSc Data Science · BHT Berlin
 Analytics Engineering · dbt · BigQuery · Power BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shrutigpatil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShrutiPatil2223)
 
 ---
 
-## 📌 Notes
-
-- BigQuery project: `marketing-analytics-dbt-497908`
-- Dataset: `marketing_dev`
-- Dashboard built in Power BI Desktop (Import mode)
-- Data is synthetic/sample marketing data for portfolio purposes
