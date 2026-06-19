@@ -1,9 +1,5 @@
-# Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI
-
 # 📊 Marketing Analytics Pipeline
 ### End-to-end analytics engineering project using dbt · BigQuery · Power BI
-
----
 
 ## 🗂️ Project Overview
 
@@ -13,8 +9,6 @@ The pipeline answers key business questions around:
 - Customer lifetime value & journey analysis
 - Campaign ROI & performance by channel
 - Channel spend distribution & revenue trends
-
----
 
 ## 🏗️ Architecture
 
@@ -33,6 +27,13 @@ Power BI Dashboard       → 3-page interactive report
 ```
 
 ## 📊 Power BI Dashboard
+
+## 📸 Dashboard Preview
+
+> *Screenshots of all 3 dashboard pages*
+![Customer Journey](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/customer%20insights.png)
+![Campaign ROI](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/campaign%20analysis.png)
+![Channel Mix](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/channel%20mix%20%26%20spend%20analysis.png)
 
 The report has **3 pages**:
 
@@ -54,19 +55,6 @@ The report has **3 pages**:
 - ROAS by Month (line chart)
 - Revenue Share by Channel (donut chart)
 - Total Spend by Channel & Month (matrix table)
-
----
----
-
-## 📸 Dashboard Preview
-
-> *Screenshots of all 3 dashboard pages*
-![Customer Journey](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/customer%20insights.png)
-![Campaign ROI](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/campaign%20analysis.png)
-![Channel Mix](https://raw.githubusercontent.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/main/marketing_analytics/Screenshots/channel%20mix%20%26%20spend%20analysis.png)
----
-
----
 
 ## 🛠️ Tech Stack
 
