@@ -219,9 +219,9 @@ dbt docs serve
 
 > *Screenshots of all 3 dashboard pages*
 
-![Customer Journey](screenshots/customer_journey.png)
-![Campaign ROI](screenshots/campaign_roi.png)
-![Channel Mix](screenshots/channel_mix.png)
+![Customer Journey]([screenshots/customer_journey.png](https://github.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/blob/main/marketing_analytics/Screenshots/customer%20insights.png))
+![Campaign ROI]([screenshots/campaign_roi.png](https://github.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/blob/main/marketing_analytics/Screenshots/campaign%20analysis.png))
+![Channel Mix]([screenshots/channel_mix.png](https://github.com/ShrutiPatil2223/Marketing-Analytics-Pipeline-Dashboard-Using-DBT-Power-BI/blob/main/marketing_analytics/Screenshots/channel%20mix%20%26%20spend%20analysis.png))
 
 ---
 
